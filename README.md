@@ -38,7 +38,7 @@ LICENSE              MIT for the pipeline; recovered content stays Alan's IP
 ## How it was rebuilt
 
 1. **HTML text** was harvested from [Common Crawl](https://commoncrawl.org/) CDX captures across multiple years (2008–2025). Common Crawl was the only public archive with substantive coverage — k0bg.com had blocked the Wayback Machine via `robots.txt`.
-2. **Images** were extracted from a September 2022 iOS Safari "Save to Dropbox" PDF cache of the live site (the most recent capture available), then matched back into the corresponding HTML pages using the Hungarian algorithm on aspect ratios.
+2. **Images** were extracted from a 43-PDF archival capture of the live site (iOS 15.7 Safari, 30 Sep 2022 per the embedded PDF metadata). I did not capture these PDFs myself — I obtained them from the [`PDF/` directory of FixInProduction/k0bg-rebuilt](https://github.com/FixInProduction/k0bg-rebuilt/tree/main/PDF), where they are bundled as part of that project. They are reproduced under `site/k0bg.com/_pdf/` here for convenience. Images were then matched back into the corresponding HTML pages using the Hungarian algorithm on aspect ratios.
 3. **CSS** was reconstructed from scratch. Common Crawl does not capture CSS responses and Wayback had zero captures, so `twoColLiqLtHdr.css` here is a faithful rebuild of the Dreamweaver CS3 "Two-Column Liquid, Left Sidebar, Header and Footer" starter template that Alan used, tuned against the rendered September 2022 PDF.
 4. **Home page layout** was visually validated page-by-page against the rendered iOS PDF until it matched.
 
@@ -74,7 +74,7 @@ python scripts/merge_images_v2.py
 
 ## Related
 
-- [FixInProduction/k0bg-rebuilt](https://github.com/FixInProduction/k0bg-rebuilt) — a separate community effort that reconstructs the same content from PDF text extraction only (no HTML structure recovery). See `AUDIT-vs-rebuilt.md` for a comparison.
+- [FixInProduction/k0bg-rebuilt](https://github.com/FixInProduction/k0bg-rebuilt) — a separate community reconstruction effort. **Credit:** the 43-PDF archival capture of the live K0BG.COM site bundled in their [`PDF/` directory](https://github.com/FixInProduction/k0bg-rebuilt/tree/main/PDF) is the source of the images used in this reconstruction (all 43 PDFs under `site/k0bg.com/_pdf/` are byte-identical to theirs). Their own text reconstruction takes a different approach — Google-cached page fragments plus community-knowledge synthesis, with explicitly added "Modern Considerations" sections — and is textually independent from the Common Crawl HTML harvested here. See `AUDIT-vs-rebuilt.md` for a sentence-level comparison against the Common Crawl originals.
 
 ## Credit
 
