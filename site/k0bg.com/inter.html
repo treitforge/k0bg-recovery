@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+
+<html>
+
+	<head><link href="twoColLiqLtHdr.css" rel="stylesheet" type="text/css">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<meta name="keywords" content="alan applegate, amateur, amateur radio, antenna, auto-couplers, ferrite, ham radio, k0bg, mobile, wiring" />
+		<meta name="generator" content="Dreamweaver" />
+		<title>Computer Interfacing</title>
+	<style type="text/css">
+<!--
+body,td,th {
+	font-family: georgia;
+}
+-->
+</style></head>
+
+
+
+
+<p><img src="images/sign/lcompinter.jpg" width="276" height="37" ></p>
+		  <p>
+          Last Modified: 
+	      <!-- #BeginDate format:Am1 -->July 23, 2011<!-- #EndDate -->
+		  
+</p>
+	
+    
+		
+<p>Contents: <a href="#basics">Basics</a>; <a href="#civ">Icom's CI-V</a>; <a href="#cat">Yaesu's CAT</a>; <a href="#kenwood">Kenwood Computer Port</a>; <a href="#odds">Odds &amp; Ends</a>; </p>
+	
+		
+<p style="text-align: center; font-size: large;"><a id="basics"></a>Basics
+<p><a href="http://www.k0bg.com/images/interface/ct17.jpg"><img src="images/interface/ct17.jpg" alt="CT-17" width="200" height="165" style="margin: 0px 5px 0px 5px; float:left; " /></a>Most late model transceivers, designed primarily for mobile operation, have at lease one port which is capable of communicating with the outside world. Unlike their earlier counterparts, most of these interfaces require some sort of buffering. For example, Icom sells the CT-17 level converter. It has a serial port which hooks up to a computer, and 4 CI-V (Communications Interface-V) ports. Thus, it can control up to 4 Icom radios, all at the same time. Obviously, you need software to do the actual communicating, but at least the ports simplify the electrical interface requirements.</p>
+		  <p>Some ports, like those designed to interface with <a href="http://www.k0bg.com/couplers.html" target="_top">auto-couplers</a>, aren't actual computer ports albeit they have a defined protocol. This fact can be helpful as we'll find out below.</p>
+		  <p>In a less than strict world, I suppose you could call an Accessory port a computer interface, because some of them are. Yaesu's CAT port is an example. But those ports also provide IOs (input-outputs) for PTT, ALC, amplifier keying, etc. Sometimes they have to be electrically buffered, sometimes not. Still others are true Ethernet ports replete with IP addresses and protocols. There's so many different types, you can't make a blanket statement about them. </p>
+		  <p>This article is not a how-to or DYI training manual. It is a basic description of the ports, and more importantly, possible problems you might encounter using them, especially for more than one use at a time. If you really want a how to, you might try <a href="http://www.ssiserver.com/info/pskmeter/interfaces.pdf" target="_blank">here</a>.</p>
+		  <p>As mentioned in the third paragraph, some transceiver ports <em>must be</em> buffered. For example, most designed-for-mobile transceivers cannot directly interface with an <a href="http://www.k0bg.com/feeding.html" title="Amplifier Care &amp; Feeding" target="_top">amplifier's</a> keying circuit. There are exceptions, but even in those cases, it is best to use a buffer. For those who don't know what a buffer is, it is a circuit which  handles more current and/or voltage, and/or provides a NC to NO connection to switch an ancillary device. It could be a transistorized and/or a relay, and in some cases an opto-isolator. With this knowledge in mind, don't assume your transceiver doesn't need any buffering, least you end up with an expensive repair bill.</p>
+		  <p><em> <img src="images/sign/caution.jpg" alt="Caution" width="276" height="37" style="margin: 0px 5px 0px 5px; float:left; " />All of the radios listed here have current limits (≈1 amp) for their interface ports. Although all are fused internally, under dead short conditions, it is possible to destroy a circuit trace, control relay, or switching transistor well before the fuse opens. Further, the voltage drop through the radio averages about one volt, and may be slightly more under full load. Therefore, these ports should not be used to power remote controlled antennas. Just for the record,  Yaesus use a surface-mounted, 3.5 amp fuse. It requires special tools to replace. Therefore, devices powered via the rear ports, should be fused (&lt;3 amps) externally for these reasons. </em></p>
+          
+<p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+          
+		  <p style="text-align: center; font-size: large;"><a id="civ"></a>Icom's CI-V</p>
+          
+          
+<p>The Icom IC-706 was the first Icom radio I owned which sported a CI-V port, and it was quite limited in what it could report to the outside world. As the models have progressed, so have the capabilities of the port. Virtually every function the IC-7000 is capable of doing, can be controlled through the CI-V. The commands are essentially the same (except for added functionality) on the IC-746 Pro, IC-756 Pro III, IC-7200, IC-7400, IC-7700, and the IC-7800. I should point out here, that each different model has a different default hex address, as do accessories like the PW-1 amplifier.</p>
+
+<p><em><img src="images/sign/advisory.jpg" alt="Advisory" width="276" height="37" style="margin: 0px 5px 0px 5px; float:left; " />The &quot;V&quot; in CI-V stands for version five. At least one earlier version (i.e.: IC-751) used a parallel interface similar to a PC printer port. Later versions have all used a two way serial port with collision error control.</em></p>
+
+
+<p>The protocol isn't perfect (at least not yet). In order to get most of the available information from the radio, you have to ask for it. There is a way to get some of it automatically, but not in the usually sense (more on that in a moment). The various software programs (too numerous to mention) do exactly that. They ask the radio to output its configuration (which may take several, individual commands), and display the data as required. Conversely, the program can send commands back to the radio. With  appropriate interfaces, you can use a computer to control the transceiver, including the audio level in some cases. </p>
+		  <p>Unique to Icom is the ability to <em>transceive</em> via the CI-V port. This allows one transceiver (or receiver) to control another. If you change frequencies, modes, bands, whatever, the other Icom device(s) connected via their respective CI-V ports will follow suit. While you could use the function to automatically control some external device, doing so becomes rather complex. I don't know of anyone currently using the transceive function to control a non Icom ancillary device. If you are, I'd like to hear from you.	      </p>
+<p><em><img src="images/sign/advisory.jpg" alt="Advisory" width="276" height="37" style="margin: 0px 5px 0px 5px; float:left; " />Here is a hint for Icom owners. Since the transceive function is not used in a mobile setting, turn if off. It is menu item 23 in the Set Mode of an IC-706MkIIg, and menu item 50 in the Other Set Mode of the IC-7000. Here's why. If the port is used for computer control (HRD for example), there will be some radiation emitted from the cabling any time the frequency is changed, or the PTT is activated. In some cases, it is enough to open the squelch in nearby FM radios. If you need the transceive function, then use RG303 or similar coax for the CI-V cable to minimize radiation. </em> </p>
+<p><a href="http://www.k0bg.com/images/antenna/brfsdc.jpg"><img src="images/antenna/brfsdc.jpg" alt="BetterRF" width="200" height="136" style="margin: 0px 5px 0px 5px; float:left; " /></a>As I mentioned above,  sometimes the various ports aren't necessarily computer ports, but you can use them for that. The best example I know of is the <a href="http://www.betterrf.com" target="_blank">BetterRF</a> combination TUNE control/SCREWDRIVER control (TCSC). As I stated above, you have to ask the IC-7000 to read out the various parameters. If you don't want to use an external device (push button), you have to have some way of soliciting the radio itself. Here's how they do it.</p>
+		  <p>If you hold pin 2 (TSTART) of the tuner port high, the IC-7000 thinks there is an AH-4 auto-coupler attached to the port. Then, when you push the Tune/Call button, the IC-7000 pulls the line low for a few milliseconds. This action is detected by the controller, thus activating the tuning sequence. There is a lot more to it in reality, and if you're interested, <a href="http://www.k0bg.com/images/pdf/tcsc.pdf">here's</a> a program overview written by the engineer who designed the unit.</p>
+		  <p>The CI-V has a unique feature in that it can talk to several devices, more or less at the same time. With proper software design, data collisions can be avoided, or at least minimized. However, there are a few considerations with respect to programming that must be followed when multiple ancillary devices are used. One of those is the requirement to reset the CI-V port back to its default value. In the IC-7000's case, that's 70h and Auto (address and baud rate). Unfortunately, a lot of programs (typically mail applications) ignore the requirement in an effort to increase speed. As a result, devices like the BetterRF unit become mutually exclusionary, and usually get (incorrectly) blamed for the problem.</p>
+		  <p>I believe Icom will continue to improve the functional aspects of the CI-V protocol. Personally, I'd like to see other manufacturers endorse it, as it beats most other interfaces hands down, especially in its simplicity.</p>
+		  <p>There is one other unique function in the IC-7000, and that's the supplied HM-151 microphone. It actually sends data to the radio over a serial path. Two of the microphone's buttons (F1 &amp; F2) are programmable, increasing the controllable functions to about 50 in number. And, those two  buttons specific function can be changed via the CI-V port.		  </p>
+<p>One last comment about the IC-7000's auxiliary port. Icom supplies a plug for the port, but it has pigtails attached which makes wiring messy. Fortunately, the Kenwood TS-480 series (et. al.) use the same plug. They're available from most amateur radio distributors for about $8 each.</p>
+<p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+
+<p style="text-align: center; font-size: large;"><a id="cat"></a>Yaesu's CAT</p>
+		  <p>The CAT (Computer Aided Transceiver)/Linear/Tune port is not nearly as robust as Icom's CI-V. For example, the SWR readout from the FT-857 is only two levels. It is 255 levels in the Icom 7000. What's more, Menu Mode number 020 must be changed depending on which function the port is being used for, and there is no provisions for changing the function remotely. Making matters worse, the newer FT-450 has a different command set, and even the jack configuration is different. As a result, the number of computer programs and ancillary devices for the FT-857 are limited. And those that are available, are typically designed to program the memories. In good defense of Yaesu, there is a separate Packet/Data port (IC-7000 has a separate port too).  However, I'd venture to say not too many amateurs will be using the port while mobile. </p>
+		  <p>There is one issue with the FT-857 I'll mention which might not be pertinent. There are some hidden commands that Yaesu has not published for whatever reason. Using them to control the function of the CAT port requires three interface cables. While the commands work, there is no means to read the status. This fact alone makes using the hidden commands a hit or miss scenario. If you're into nuances, there is some information floating out on the net about them. </p>
+		  <p>Here's an interesting fact. The Tuner portion of the CAT system is configured differently than Icom's tuner port, but the signal timing is almost identical. In fact, it can be made to control some Icom hardware with a simple interface.</p>
+		  <p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+<p style="text-align: center; font-size: large;"><a id="kenwood"></a>Kenwood Computer Port</p>
+		  <p>Before I get started with the TS-480 transceiver, let's address the TS-2000. Although I know several folks who are using the TS-2000 in its various guises mobile, I'm of the opinion that the overall number is very small. What's more, its RS232 port capabilities are essentially identical to the TS-480, so I've chosen not to cover it in any detail. This said, there is one common function which might come in handy, and that's cloning. By hooking up a computer cable between the TS-2000 and the TS-480 (Sx or Hx), the memory contents can be transferred. The good part is, you don't need a computer! This feature is unique to Kenwood.</p>
+		  <p>The TS-480Hx (200 watt version) is a formidable mobile radio; a poor man's amplifier as it were. Both it, and the lower powered Sx 'tuner' version, have three interface ports; a linear port,  a data port (packet), and an RS232 computer port (9 pin, male D connector). The former two sort of speak for themselves. However, the RS232 port (the signaling levels are standard RS232, so no level converter is needed) has a very robust command set. You can down load a copy <a href="http://www.k0bg.com/images/pdf/ts_480_pc.pdf" target="_blank">here</a>. As you can see by looking at the PDF, virtually every function of the transceiver can be controlled through the port. </p>
+		  <p>The radio does not automatically send data out its RS232 port. However, Kenwood has a tuner very similar to the AH-4. In order to use it, you have to select it via the programming menu. I have to assume it too outputs a pulse when the AT button is pushed. This could be used to signal an antenna controller similar to the BetterRF unit for the IC-7000. If someone currently has such a device, I'm unaware of it.</p>
+		  <p>If there is an unfortunate aspect to the Kenwood TS480, it is the fact it isn't nearly as popular as its Icom and Yaesu counterparts. As a result, you don't see a lot of ancillary hardware utilizing the radio's capabilities. That's sad really, as it is a decent radio, and has a lot to offer for what you have to pay for it.</p>
+		  <p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+<p style="text-align: center; font-size: large;"><a id="odds"></a>Odds &amp; Ends</p>
+		  <p>One question that is surely to arise is,	why didn't I cover the .... (fill in the blank)? The truth is, when it comes to miniature mobile transceivers, you really have just four, and a fifth  if you include the Alinco DX-SR8T. I really don't know  the exact  numbers, but I'd bet the IC-706, IC-7000, TS-480, and FT857D cover virtually 90+% of the mobile installations. </p>
+		  <p>For example, according to industry figures, Icom has shipped over 70,000 IC-706s in its various configurations. This makes it the most popular, single model, HF radio, ever! The IC-7000 is selling at record-breaking numbers as well. Although the FT-857D is getting a little long in tooth, it too has a loyal following. While I could mention many others (Ten-Tec for example), few are operated mobile, so I feel justified in omitting them.</p>
+		  <p>We'll see more and more computer interfacing as time goes on; that's only logical. I'm just hoping for some standardization while they're at it!</p>
+		  <p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+	
+
+<p><a title="Home" href="http://www.k0bg.com" target="_top">Home</a></p>
+<p>&nbsp;</p>
+						
+</body>
+
+</html>

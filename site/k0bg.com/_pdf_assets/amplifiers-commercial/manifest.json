@@ -1,0 +1,189 @@
+{
+  "pdf": "Amplifiers, Commercial.pdf",
+  "slug": "amplifiers-commercial",
+  "page_count": 4,
+  "total_images": 18,
+  "unique_images": 16,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_92d09a919686.jpg",
+          "sha1_12": "92d09a919686",
+          "bytes": 2146
+        },
+        {
+          "index": 1,
+          "file": "p01_01_d8f0ec895679.jpg",
+          "sha1_12": "d8f0ec895679",
+          "bytes": 67538
+        },
+        {
+          "index": 2,
+          "file": "p01_02_603bbd01b24f.jpg",
+          "sha1_12": "603bbd01b24f",
+          "bytes": 6712
+        },
+        {
+          "index": 3,
+          "file": "p01_03_75c359107ea8.jpg",
+          "sha1_12": "75c359107ea8",
+          "bytes": 16435
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/#basics",
+        "http://k0bg.com/#kits",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.ameritron.com/",
+        "http://www.ameritron.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/choke.html",
+        "http://www.k0bg.com/signal.html",
+        "http://www.scorpionantennas.com/",
+        "http://www.k0bg.com/controllers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/alternator.html",
+        "http://www.k0bg.com/alternator.html#battery",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/audioxmit.html",
+        "http://k0bg.com/amplifiers.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_ee2b4e6f7ce4.jpg",
+          "sha1_12": "ee2b4e6f7ce4",
+          "bytes": 22355
+        },
+        {
+          "index": 1,
+          "file": "p02_01_37b0d098cb7b.jpg",
+          "sha1_12": "37b0d098cb7b",
+          "bytes": 69452
+        },
+        {
+          "index": 2,
+          "file": "p02_02_4b744ec6a4f5.jpg",
+          "sha1_12": "4b744ec6a4f5",
+          "bytes": 26190
+        },
+        {
+          "index": 3,
+          "file": "p02_03_3b75272f08b9.jpg",
+          "sha1_12": "3b75272f08b9",
+          "bytes": 32138
+        },
+        {
+          "index": 4,
+          "file": "p02_04_0bdd905df157.png",
+          "sha1_12": "0bdd905df157",
+          "bytes": 2153
+        },
+        {
+          "index": 5,
+          "file": "p02_05_585115f9a5c7.jpg",
+          "sha1_12": "585115f9a5c7",
+          "bytes": 68401
+        },
+        {
+          "index": 6,
+          "file": "p02_06_5c3f3a7c05b4.jpg",
+          "sha1_12": "5c3f3a7c05b4",
+          "bytes": 353859
+        },
+        {
+          "index": 7,
+          "file": "p02_07_5a078669a09b.jpg",
+          "sha1_12": "5a078669a09b",
+          "bytes": 5194
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/images/pdf/fcc97.307.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/audioxmit.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_07_5a078669a09b.jpg",
+          "sha1_12": "5a078669a09b",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p01_01_d8f0ec895679.jpg",
+          "sha1_12": "d8f0ec895679",
+          "duplicate": true
+        },
+        {
+          "index": 2,
+          "file": "p03_02_effec228d5af.jpg",
+          "sha1_12": "effec228d5af",
+          "bytes": 8065
+        },
+        {
+          "index": 3,
+          "file": "p03_03_fdd3f43a583a.jpg",
+          "sha1_12": "fdd3f43a583a",
+          "bytes": 5558
+        },
+        {
+          "index": 4,
+          "file": "p03_04_e9fc0dbe91e4.jpg",
+          "sha1_12": "e9fc0dbe91e4",
+          "bytes": 9664
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.ameritron.com/",
+        "tel:800-713-3550",
+        "tel:662-323-8211",
+        "javascript:javascript:history.go(-1)",
+        "http://www.henryradio.com/",
+        "tel:310-820-1234",
+        "javascript:javascript:history.go(-1)",
+        "http://www.dtwc.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/things.html#remcon"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [
+        {
+          "index": 0,
+          "file": "p04_00_435800501358.jpg",
+          "sha1_12": "435800501358",
+          "bytes": 3999
+        }
+      ],
+      "uris": [
+        "tel:800-259-7331",
+        "javascript:javascript:history.go(-1)",
+        "http://www.tentec.com/",
+        "tel:865-453-7172",
+        "javascript:javascript:history.go(-1)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "pdf": "Common Mode Currents.pdf",
+  "slug": "common-mode-currents",
+  "page_count": 2,
+  "total_images": 4,
+  "unique_images": 4,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_79e6afac18f1.jpg",
+          "sha1_12": "79e6afac18f1",
+          "bytes": 36579
+        },
+        {
+          "index": 1,
+          "file": "p01_01_c1fa76d467a7.jpg",
+          "sha1_12": "c1fa76d467a7",
+          "bytes": 17391
+        },
+        {
+          "index": 2,
+          "file": "p01_02_d728a62c5de3.jpg",
+          "sha1_12": "d728a62c5de3",
+          "bytes": 187415
+        },
+        {
+          "index": 3,
+          "file": "p01_03_c1aab839b8c3.jpg",
+          "sha1_12": "c1aab839b8c3",
+          "bytes": 16724
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/controllers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/controllers.html",
+        "https://www.dxengineering.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/electronics.html",
+        "http://www.k0bg.com/signal.html",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/common.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

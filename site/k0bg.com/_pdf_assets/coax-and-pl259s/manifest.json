@@ -1,0 +1,147 @@
+{
+  "pdf": "Coax & PL259s.pdf",
+  "slug": "coax-and-pl259s",
+  "page_count": 3,
+  "total_images": 14,
+  "unique_images": 14,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_8545666e1312.jpg",
+          "sha1_12": "8545666e1312",
+          "bytes": 38416
+        },
+        {
+          "index": 1,
+          "file": "p01_01_a9b2bc36e8be.jpg",
+          "sha1_12": "a9b2bc36e8be",
+          "bytes": 29499
+        },
+        {
+          "index": 2,
+          "file": "p01_02_3c808c89e8fe.jpg",
+          "sha1_12": "3c808c89e8fe",
+          "bytes": 81794
+        },
+        {
+          "index": 3,
+          "file": "p01_03_c1fa76d467a7.jpg",
+          "sha1_12": "c1fa76d467a7",
+          "bytes": 17391
+        },
+        {
+          "index": 4,
+          "file": "p01_04_3aadc47c8368.jpg",
+          "sha1_12": "3aadc47c8368",
+          "bytes": 13994
+        }
+      ],
+      "uris": [
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/neat.html#cutter",
+        "javascript:javascript:history.go(-1)",
+        "http://www.scorpionantennas.com/",
+        "http://therfc.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.arrl.org/",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/controllers.html",
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/beads.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.mouser.com/",
+        "tel:523-83-822",
+        "http://k0bg.com/coax.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_1ac802494c31.jpg",
+          "sha1_12": "1ac802494c31",
+          "bytes": 60550
+        },
+        {
+          "index": 1,
+          "file": "p02_01_3882af31005e.jpg",
+          "sha1_12": "3882af31005e",
+          "bytes": 6226
+        },
+        {
+          "index": 2,
+          "file": "p02_02_753f16c19a52.jpg",
+          "sha1_12": "753f16c19a52",
+          "bytes": 2340
+        },
+        {
+          "index": 3,
+          "file": "p02_03_184d71d4b844.jpg",
+          "sha1_12": "184d71d4b844",
+          "bytes": 77325
+        },
+        {
+          "index": 4,
+          "file": "p02_04_0924bf5700be.jpg",
+          "sha1_12": "0924bf5700be",
+          "bytes": 78082
+        },
+        {
+          "index": 5,
+          "file": "p02_05_e39e3cb3580d.jpg",
+          "sha1_12": "e39e3cb3580d",
+          "bytes": 79731
+        },
+        {
+          "index": 6,
+          "file": "p02_06_345c69432ceb.jpg",
+          "sha1_12": "345c69432ceb",
+          "bytes": 240215
+        }
+      ],
+      "uris": [
+        "http://www.mouser.com/",
+        "tel:523-83-822",
+        "http://therfc.com/",
+        "http://www.mouser.com/",
+        "tel:523-83-185",
+        "javascript:javascript:history.go(-1)",
+        "http://shop.hobbylobby.com/",
+        "javascript:javascript:history.go(-1)",
+        "https://www.dxengineering.com/",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_3e1fed79cd71.jpg",
+          "sha1_12": "3e1fed79cd71",
+          "bytes": 6133
+        },
+        {
+          "index": 1,
+          "file": "p03_01_1a1157280666.jpg",
+          "sha1_12": "1a1157280666",
+          "bytes": 37646
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://therfc.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.rescuetape.com/",
+        "http://www.allelectronics.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

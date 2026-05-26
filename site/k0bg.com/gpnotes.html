@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<head><link href="twoColLiqLtHdr.css" rel="stylesheet" type="text/css">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="alan applegate, amateur, amateur radio, antenna, auto-couplers, ferrite, ham radio, k0bg, mobile, wiring" />
+		<meta name="generator" content="Dreamweaver" />
+<title>Ground Plane Notes</title>
+<style type="text/css" media="screen">
+<!--
+body, td, th {
+	font-family: georgia;
+}
+.red {
+	color: #F00;
+}
+.red1 {	color: #F00;
+}
+-->
+</style>
+</head>
+
+
+  <p><img src="images/sign/lgndpnotes.jpg" alt="Ground Plane Notes" width="276" height="37"></p>
+  <p>Last Modified:
+    
+      <!-- #BeginDate format:Am1 -->November 2, 2011<!-- #EndDate -->
+    
+</p>
+
+
+<p>Contents: <a href="#basics">Basics</a>; <a href="#dr">Dr. Van Putten</a>; <a href="#losses">Ground Losses</a>; <a href="#chokes">Chokes</a>; <a href="#odds">Odds &amp; Ends</a>;</p>
+
+
+  <p style="text-align: center; font-size: large;"><a id="basics"></a>Basics</p>
+
+
+
+  <p>Throughout this web site, I (overly, and rightly so) emphasize that it is the mass <i>directly under</i> the antenna, not along side, that counts. The reason I do is because ground  losses (typically) are the largest single factor in any equation relating to efficiency, input impedance, and particularly common mode currents with respect to RFI issues. Since this subject is so important, especially in a mobile setting, I think it prudent to present a different slant on the issue of ground planes.</p>
+  <p>Keep in mind when reading the following treatise, that RF <em>must flow</em> back to its source. It will do so in the shortest path (the one with the least resistance) it can find. That may be the outside of the coax (common mode current), or down an inadequately-choked motor control lead feeding power to a screwdriver antenna.</p>
+<p>What follows is the exact text of an e-mail I received from Dr. James D. Van Putten, Jr., W8QT, Physics professor emeritus, of Hope College, in Holland, Michigan. </p>
+  <p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+
+
+
+<p style="text-align: center; font-size: large;"><a id="dr"></a>Dr. Van Putten</p>
+
+
+
+  <p><em>I have been thinking about how to help persons who cannot seem to understand the problems associated with RF currents flowing on control or other lines. Here is a thought.</em></p>
+  <p><em>Electric fields begin and terminate on charges.&nbsp;By convention the field lines run from positive charges to negative charges.&nbsp;A positive charge does not have to be a positive electron (although they exist) but equally effective is the absence of a negative charge.&nbsp;Solid state physicists call these &quot;holes&quot;.&nbsp;An example of the absence of an electron is seen in capacitors.&nbsp;Think of a capacitor as two parallel plates separated by an insulator.&nbsp;When electrons flow onto a plate, they repel electrons on the other plate which flow out into the circuit.&nbsp;This creates an absence of electrons on the plate from which the electrons have been repelled resulting a positively charged plate.&nbsp;The electric field in the capacitor then runs from the absence of electrons on one plate to the electrons on the other.</em></p>
+  <p><em>A similar effect is present in antennas.&nbsp;When the transmitter drives electrons onto one wire of a dipole antenna (creating a surplus of charges), it draws electrons from the other wire (creating an absence of electrons).&nbsp;The electric field runs then from the absence of electrons on one wire to the excess of electrons on the other.&nbsp;This flow of electrons surges back and forth at the frequency of the signal being transmitted.&nbsp;The surging electrons are the current in the antenna wire.</em></p>
+  <p><em>When one uses an antenna that is essentially only one wire such as a mobile antenna or a vertical antenna, the transmitter drives electrons into that wire while drawing electrons from whatever other conductor is connected to the return line to the transmitter.&nbsp;This is often the outside of the shield of a coax or any other wires associated with the antenna or its tuner.&nbsp;In an automobile antenna, this can be the body of the car.&nbsp;Unless specific actions are taken to prevent the current from flowing on outside of the coax or on associated wires, the current will flow back and forth over the leads to the transmitter and any equipment connected to it.&nbsp;This RF can cause nips to the lips from microphones as well as malfunctioning in equipment connected to the transmitter.&nbsp;Prevention of the wayward current flow can be prevented by the judicious use of ferrite chokes.</em></p>
+  <p><em>The mental image of the electric field lines running from the absence of charge to real electrons can also help one to understand why radials or ground planes are necessary on any vertical antenna.&nbsp;There must be a conductor upon which the transmitter impresses electrons and another from which it draws electrons.&nbsp;This can be metal, sea water or conductive soil.&nbsp;As the power loss is proportional to the resistance of that conductor one can easily see why multiple radials or sea water is one reason that these increase the efficiency of a vertical antenna system.&nbsp; </em></p>
+  <p><em>Center fed, vertical half wave antennas require a more sophisticated analysis.&nbsp;In such an antenna there is a both a conductor on which to induce charge and a conductor from which to draw charge.&nbsp;However the electric fields associated with a vertical antenna must also obey all of Maxwell's Equations which require image currents to flow in any nearby conductor.&nbsp;These vertical image fields behave somewhat differently than horizontal image fields.&nbsp;The importance of this difference is that all vertical radiators require a conductive area in the near field around the antenna itself.&nbsp; </em></p>
+  <p>Jim, W8QT </p>
+  <p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+  
+<p style="text-align: center; font-size: large;"><a id="losses"></a>Ground Losses</p>
+
+<p><em><img src="images/sign/K0BG-stop.jpg" alt="Stop!" width="50" height="70" style="margin: 0px 5px 0px 0px; float:left; " /></em><em>A vehicle is not a ground plane, but rather acts like a capacitor between the antenna, and the surface under the vehicle which acts as the ground plane. Since the surface in question is a poor conductor of RF, ground losses occur. From the last paragraph. ...all vertical radiators require a conductive area in the near field around the antenna itself. The key words here are, near field. </em></p>
+<p><em>The coupling between the super structure of any vehicle, and the surface under it, is not consistent. As a result, there will always be standing waves  between them. These standing waves are, in essence, the main cause of the ground losses in the first place. And no, we're not talking about the SWR of the antenna! </em></p>
+<p><em><a href="http://www.k0bg.com/images/antenna/nogp.JPG"><img src="images/antenna/nogp.JPG" alt="No Ground Plane" width="190" height="126" style="margin: 0px 5px 0px 5px; float:right; " /></a>When you mount antennas atop long posts or brackets, and/or trailer hitch type mounts, ground losses mount (pun intended). How much they increase depends on a lot of factors, but it pays to remember that ground losses dominate the <a href="http://www.k0bg.com/eff.html" title="Antenna Efficiency" target="_top">efficiency</a> equation. As a result, very small changes in ground loss (even just one ohm!) can have a large affect on efficiency. Again, it is the mass (directly) under the antenna, not along side, that counts. In other words, anything placed in between the base of the antenna, and the requisite mass, will add ground loss. The installation shown right, is the worst of cases! It should be noted, that ground loss cannot be measured directly. It is, however, reflected in the input impedance of any HF mobile antenna, but cannot be directly measured with an SWR bridge, or wattmeter.</em></p>
+<p><em>The shield of the coax should be connected at, or very near, the base of the antenna, and that connection needs to be coincident to start of the antenna's ground plane, whatever that may be. In the case of an HF mobile installation, that's typically the body of the vehicle. That body should be as RF consistent as we can make it. That is to say, at a minimum impedance to the flow of RF. It is this requirement that we satisfy with bonding straps. However, bonding straps are not a substitute for a ground plane! If the shield is properly attached, no further bonding (ground) straps to the mount, near the mount, or coax connection are required. If installing one cured, fixed, or made matching possible, then something else was amiss in the first place! And that's usually the mounting position and/or methodology! </em></p>
+<p><em>Remember, the best vehicle in the world, is still an inadequate ground plane at HF and low VHF frequencies. Thus, the reasoning behind placing the antenna as high as possible on the vehicle, is an attempt to cause as much RF current to flow through the body, rather than the very lossy surface under the vehicle. When you consider the difference between low, and mid-position mounting, averages ≈6 dB (about what you'd get by adding a 500 watt amplifier), it behooves operators to think about their choice of mounting positions.  It should be noted that the affect will be evident in both transmit, and receive! However, this fact should not be construed as support for mounting an antenna atop a long (tall) post!</em></p>
+<p><em>Just for the record. Near-field antenna-strength measurements are wrought with problems due in part to mutual coupling. Therefore, any antenna-strength measurement taken at a distance of less than 4 to 5 wave lengths are suspect at best. Further, measurements taken at only one take off angle (TOA), will yield less than stellar results. If only one angle is to be chosen, it should be the mean TOA angle for a 1/4 wave antenna, or ≈27°. This isn't an easy task. Assuming we're on 20 meters, the minimum point of measurement is about 650 feet away. In order to measure the TOA of 27°, the receive antenna will need to be some 330 feet high! </em></p>
+<p><em>There is another   result of decreasing ground plane losses, and taming common mode currents; it also improves the S+N/N ratio (<a href="http://www.k0bg.com/signal.html" title="Signal To Noise Ratio">SNR</a>). Depending on the band conditions, receiver dynamics, localized noise, and even the mode of operation, even a one ohm decrease in ground plane loss can have a significant effect on the SNR produced in the front end of the receiver.</em></p>
+
+<p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+<p style="text-align: center; font-size: large;"><a id="chokes"></a>Chokes</p>
+
+
+
+  <p><a href="http://www.k0bg.com/images/antenna/coaxchoke.jpg"><img src="images/antenna/coaxchoke.jpg" alt="Coax Choke" width="200" height="211" style="margin: 0px 5px 0px 5px; float:right; " /></a>There are several articles on this web site that explain how ferrite chokes <a href="http://www.k0bg.com/beads.html" target="_top">work</a>, and where and how to install <a href="http://www.k0bg.com/controllers.html" target="_top">them</a>. However, with the above in mind, it is important to point out just what happens to the antenna current when a choke is used. </p>
+  <p>If you took time to read aforementioned article on how ferrite chokes work, you'd know they look like an inductance in series with a resistor. Thus, whatever RF energy they choke off, is turned into heat instead of a radiated RF signal. Some of this <a href="http://www.k0bg.com/common.html" title="Common Mode Current" target="_top">common mode</a> current flow is unavoidable, and the motor leads of a remotely tuned antenna are an example. In this case, proper choking is a prerequisite!  </p>
+  
+<p><em><img src="images/sign/K0BG-stop.jpg" alt="Stop!" width="50" height="70" style="margin: 0px 5px 0px 0px; float:left; " />There is always some common mode current flow on the feed line of any mobile installation, no matter how well the antenna is mounted. Common mode, and inadequately choked motor control leads, are the two main causes of RFI ingress problems. They are exacerbated by poor mounting choices. This includes, but is not limited to, mag mounts, clip mounts, and lip mounts.</em></p>
+
+  
+<p>Again, ground straps are <i>not</i> a substitute for a ground plane. Just try and keep this thought in mind; the start of the ground plane for a mobile antenna should be directly under where the coax shield connects. If it isn't, or there's a ground strap, post, or support there instead, you have less than a stellar installation.</p>
+
+
+<p>If you're looking for more information on chokes, and how they work, here is a wonderful <a href="http://audiosystemsgroup.com/RFI-Ham.pdf" target="_blank">white paper</a> on the subject written by Jim Brown, K9YC.</p>
+<p><em><img src="images/sign/K0BG-stop.jpg" alt="Stop!" width="50" height="70" style="margin: 0px 5px 0px 0px; float:left; " /><span class="red">An important point  needs to be made here</span>. In order to be effective, the impedance of the choke must be mostly resistive within the frequency range we're trying to cover. If they're mostly inductive, applying them may actually makes matters worse, not better! This is also the reason single turn chokes are nearly worthless at HF frequencies. Steve Hunt, G3TXQ, compiled a chart showing the difference between mix 43, and mix 31 in several configurations, and it is located <a href="http://www.karinya.net/g3txq/chokes/" title="G3TXQ Choke Chart" target="_blank">here</a>. The black line in the charts indicate the reactance of the choke is mostly resistive. In you're specific application, if the black line does not fall within your operating frequency range, the choke might increase the RFI, rather than suppress it. </em></p>
+<p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+<p style="text-align: center; font-size: large;"><a id="odds"></a>Odds &amp; Ends</p>
+  <p><a href="http://www.k0bg.com/images/antenna/vertpat.jpg"><img src="images/antenna/vertpat.jpg" alt="Vertical Pattern" width="226" height="182" style="margin: 0px 5px 0px 5px; float:left; " /></a>Contrary to popular belief, ground losses have little affect the mean angle of radiation (&asymp;27 degrees) from a quarter wave vertical. They do, on the other hand, affect the signal strength at any given angle of radiation.</p>
+  <p>The chart at left, courtesy of the <a href="http://www.arrl.org" title="ARRL" target="_blank">ARRL</a> Handbook, depicts an 80 meter vertical over both a perfect ground plane, and an average ground plane. Note that the signal strength varies between the two, but the point of maximum power occurs virtually at the same angle of radiation. </p>
+  <p>It is important to note that at very low angles (&lt;15&deg;), the field strength over less than a perfect ground, is almost nonexistent. It is this fact which apparently causes the misconception that the  angle of radiation lowers as  ground losses decrease. </p>
+  <p>Regardless of the misconception, reducing ground losses is of prime importance if good efficiency, and increased power at low angles is the goal.</p>
+  <p><A HREF="javascript:javascript:history.go(-1)">☜Return☜</A></p>
+
+
+  <p><a title="Home" href="http://www.k0bg.com" target="_top">Home</a></p>
+  <p>&nbsp;</p>
+
+
+</body>
+</html>
+

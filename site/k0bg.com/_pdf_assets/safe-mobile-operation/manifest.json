@@ -1,0 +1,76 @@
+{
+  "pdf": "Safe Mobile Operation.pdf",
+  "slug": "safe-mobile-operation",
+  "page_count": 3,
+  "total_images": 3,
+  "unique_images": 3,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_671017e4abef.jpg",
+          "sha1_12": "671017e4abef",
+          "bytes": 17295
+        }
+      ],
+      "uris": [
+        "http://www.arrl.org/files/file/MobileAmateurRadioPolicyStatement.pdf",
+        "http://www.k0bg.com/install.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.digital-recordings.com/publ/pubnoise.html",
+        "http://www.heilsound.com/",
+        "http://www.k0bg.com/images/audio/wb2wikmic.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/audioxmit.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/images/audio/wb2wikmic.pdf",
+        "http://en.wikipedia.org/wiki/NATO_phonetic_alphabet",
+        "http://k0bg.com/safety.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_c27ad15321ba.jpg",
+          "sha1_12": "c27ad15321ba",
+          "bytes": 19778
+        },
+        {
+          "index": 1,
+          "file": "p02_01_4523789b56e2.jpg",
+          "sha1_12": "4523789b56e2",
+          "bytes": 5766
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.repeater-builder.com/humor/how-to-sound-like-a-lid.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/miniature.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.olympusamerica.com/cpg_section/cpg_voicerecorders.asp?section=digital",
+        "https://itunes.apple.com/us/app/maidenhead-converter/id313870236?mt=8",
+        "http://www.no5w.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "http://ww.k0bg.com/static.html",
+        "http://www.rainx.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/movie/car.mpeg"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

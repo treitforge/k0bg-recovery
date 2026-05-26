@@ -1,0 +1,71 @@
+{
+  "pdf": "Transmit Audio.pdf",
+  "slug": "transmit-audio",
+  "page_count": 2,
+  "total_images": 5,
+  "unique_images": 4,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_fdd3a306d464.jpg",
+          "sha1_12": "fdd3a306d464",
+          "bytes": 14542
+        },
+        {
+          "index": 1,
+          "file": "p01_01_579d665729f3.jpg",
+          "sha1_12": "579d665729f3",
+          "bytes": 14160
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.w8ji.com/transmitter_splatter.htm",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/wiring.html",
+        "javascript:javascript:history.go(-1)",
+        "http://en.wikipedia.org/wiki/A-weighting",
+        "http://en.wikipedia.org/wiki/Neurolinguistics",
+        "javascript:javascript:history.go(-1)",
+        "http://en.wikipedia.org/wiki/Electret_microphone",
+        "http://en.wikipedia.org/wiki/Microphone",
+        "http://www.k0bg.com/images/audio/wb2wikmic.pdf",
+        "http://k0bg.com/audioxmit.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_fdd3a306d464.jpg",
+          "sha1_12": "fdd3a306d464",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p02_01_8d8dffb756ed.jpg",
+          "sha1_12": "8d8dffb756ed",
+          "bytes": 23697
+        },
+        {
+          "index": 2,
+          "file": "p02_02_e5a094c5e727.jpg",
+          "sha1_12": "e5a094c5e727",
+          "bytes": 5356
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/amplifiers.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pdf": "Ignition Notes on RFI.pdf",
+  "slug": "ignition-notes-on-rfi",
+  "page_count": 1,
+  "total_images": 2,
+  "unique_images": 2,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_fada3b3ad18c.jpg",
+          "sha1_12": "fada3b3ad18c",
+          "bytes": 16571
+        },
+        {
+          "index": 1,
+          "file": "p01_01_5bccb2af628a.jpg",
+          "sha1_12": "5bccb2af628a",
+          "bytes": 15660
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/images/noiseid/ignoise.aif",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/signal.html#agc",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/noiseid/Dieselenginenoise.mp3",
+        "https://www.youtube.com/watch?v=ftchx1TDNJo",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/images/noiseid/fuelpump.aif",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/electronics.html",
+        "http://www.k0bg.com/alternator.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/",
+        "http://k0bg.com/ignition.html"
+      ]
+    }
+  ]
+}

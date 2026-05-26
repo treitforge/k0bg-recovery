@@ -1,0 +1,200 @@
+{
+  "pdf": "Home Brew Things.pdf",
+  "slug": "home-brew-things",
+  "page_count": 4,
+  "total_images": 19,
+  "unique_images": 16,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_b60cab1b92be.jpg",
+          "sha1_12": "b60cab1b92be",
+          "bytes": 58965
+        },
+        {
+          "index": 1,
+          "file": "p01_01_9e1740ef607c.jpg",
+          "sha1_12": "9e1740ef607c",
+          "bytes": 93220
+        },
+        {
+          "index": 2,
+          "file": "p01_02_2678eedd52e4.jpg",
+          "sha1_12": "2678eedd52e4",
+          "bytes": 15581
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.aaronsgeneralstore.com/",
+        "http://www.circuitspecialists.com/",
+        "http://www.commercemetals.com/",
+        "http://grumpyshop.net/",
+        "http://www.speedymetals.com/",
+        "http://www.metalsdepot.com/",
+        "http://www.microfasteners.com/",
+        "http://www.allelectronics.com/",
+        "http://www.allspectrum.com/",
+        "http://www.mouser.com/",
+        "http://www.newark.com/",
+        "http://www.digikey.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.bwantennas.com/",
+        "http://www.arrl.org/",
+        "http://www.k0bg.com/gallery2/main.php?g2_itemId=250",
+        "http://www.jerryclement.ca/HamRadio/HamRadio/10282516_SCgV88#1520268555_kKnxgf2",
+        "http://www.k0bg.com/antmount.html",
+        "javascript:javascript:history.go(-1)",
+        "https://breedlovemounts.com/",
+        "http://k0bg.com/things.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_b60cab1b92be.jpg",
+          "sha1_12": "b60cab1b92be",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p01_01_9e1740ef607c.jpg",
+          "sha1_12": "9e1740ef607c",
+          "duplicate": true
+        },
+        {
+          "index": 2,
+          "file": "p02_02_abafd8d32ed1.jpg",
+          "sha1_12": "abafd8d32ed1",
+          "bytes": 11651
+        },
+        {
+          "index": 3,
+          "file": "p02_03_f48885dc303c.jpg",
+          "sha1_12": "f48885dc303c",
+          "bytes": 23828
+        },
+        {
+          "index": 4,
+          "file": "p02_04_848cbc806dbd.jpg",
+          "sha1_12": "848cbc806dbd",
+          "bytes": 19583
+        },
+        {
+          "index": 5,
+          "file": "p02_05_994423793a2d.jpg",
+          "sha1_12": "994423793a2d",
+          "bytes": 22144
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/images/neat/rescuetape.jpg",
+        "http://www.crystalradio.net/cal/indcal.shtml",
+        "javascript:javascript:history.go(-1)",
+        "https://www.dxengineering.com/",
+        "http://www.maintradingcompany.com/main/page_texas_bugcatcher.html",
+        "http://www.qsl.net/k5lxp/mobile/HFMast/HFMast.html",
+        "http://www.k0bg.com/gallery2/main.php",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.digikey.com/",
+        "http://www.mouser.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_3937db295c1d.png",
+          "sha1_12": "3937db295c1d",
+          "bytes": 9018
+        },
+        {
+          "index": 1,
+          "file": "p03_01_8ad6009d80d5.jpg",
+          "sha1_12": "8ad6009d80d5",
+          "bytes": 23221
+        },
+        {
+          "index": 2,
+          "file": "p03_02_2100e1e47a2b.jpg",
+          "sha1_12": "2100e1e47a2b",
+          "bytes": 37613
+        },
+        {
+          "index": 3,
+          "file": "p03_03_f8bbd0a66282.jpg",
+          "sha1_12": "f8bbd0a66282",
+          "bytes": 22263
+        },
+        {
+          "index": 4,
+          "file": "p03_04_816845452c9b.jpg",
+          "sha1_12": "816845452c9b",
+          "bytes": 292553
+        },
+        {
+          "index": 5,
+          "file": "p03_05_5c3f3a7c05b4.jpg",
+          "sha1_12": "5c3f3a7c05b4",
+          "bytes": 353859
+        },
+        {
+          "index": 6,
+          "file": "p03_06_3b75272f08b9.jpg",
+          "sha1_12": "3b75272f08b9",
+          "bytes": 32138
+        },
+        {
+          "index": 7,
+          "file": "p03_07_1187a6427e6a.jpg",
+          "sha1_12": "1187a6427e6a",
+          "bytes": 31376
+        }
+      ],
+      "uris": [
+        "http://www.westmountainradio.com/",
+        "http://www.westmountainradio.com/",
+        "http://www.mouser.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/amplifiers.html"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_07_1187a6427e6a.jpg",
+          "sha1_12": "1187a6427e6a",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p04_01_7092b8df77cd.jpg",
+          "sha1_12": "7092b8df77cd",
+          "bytes": 10425
+        }
+      ],
+      "uris": [
+        "http://tvandnav2go.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

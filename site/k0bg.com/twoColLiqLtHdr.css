@@ -1,0 +1,149 @@
+@charset "UTF-8";
+/*
+ * Reconstructed twoColLiqLtHdr.css for K0BG.com recovery.
+ *
+ * The original site referenced Adobe Dreamweaver CS3's stock
+ * "2 Column Liquid, Left Sidebar, Header and Footer" CSS starter
+ * template (filename `twoColLiqLtHdr.css`). The live file was never
+ * captured by the Wayback Machine (k0bg.com blocked archiving in
+ * robots.txt) and Common Crawl does not capture CSS responses, so
+ * this file is a faithful reconstruction of the standard template
+ * tweaked to match what we can infer from the Common Crawl HTML:
+ *   - .container / .header / .sidebar1 / .content / .footer layout
+ *     used by the home page (index.html and error.html)
+ *   - <ul class="nav"> vertical link bar with 276x37 banner images
+ *   - inline `body { font-family: georgia }` in every page <head>
+ *
+ * Article pages are bare <p> fragments and inherit only body styling.
+ */
+
+body {
+  font: 100%/1.4 Georgia, "Times New Roman", Times, serif;
+  background: #FFF;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+
+p { margin-top: 0; padding: 5px 10px 5px 20px; }
+
+ul, ol, dl { padding: 0; margin: 0; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0; padding-right: 15px; padding-left: 15px; }
+
+a img { border: none; }
+
+a:link    { color: #42413C; text-decoration: underline; }
+a:visited { color: #6E6C64; text-decoration: underline; }
+a:hover, a:active, a:focus { text-decoration: none; }
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  background: #FFF;
+  margin: 0 auto;
+}
+
+/* In Alan's HTML the div he named ".header" is actually the right-hand
+ * content column (it holds the big welcome sign + intro paragraphs).
+ * It is NOT a page header. Float it right beside the sidebar. */
+.header {
+  float: right;
+  width: 77%;
+  background: #FFF;
+  padding: 10px 20px 20px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.header > p { text-align: left; }
+.header > p:first-of-type { text-align: center; }
+
+.sidebar1 {
+  float: left;
+  width: 23%;
+  background: #EADCAE;
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+
+.content {
+  padding: 10px 0;
+  width: 78%;
+  float: left;
+}
+
+.content ul, .content ol { padding: 0 15px 15px 40px; }
+
+ul.nav {
+  list-style: none;
+  border-top: 1px solid #666;
+  margin-bottom: 15px;
+}
+ul.nav li { border-bottom: 1px solid #666; }
+ul.nav a, ul.nav a:visited {
+  padding: 5px 5px 5px 15px;
+  display: block;
+  text-decoration: none;
+  background: #8090AB;
+  color: #000;
+}
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
+  background: #6F7D94;
+  color: #FFF;
+}
+ul.nav li img { display: block; max-width: 100%; height: auto; }
+
+.footer {
+  padding: 10px 0;
+  background: #CCC49F;
+  position: relative;
+  clear: both;
+}
+
+/* Force container to clear its floated children so it actually wraps them. */
+.container::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.fltrt { float: right; margin-left: 8px; }
+.fltlft { float: left;  margin-right: 8px; }
+.clearfloat { clear: both; height: 0; font-size: 1px; line-height: 0; }
+
+.container:after,
+ul.nav:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* --- K0BG-specific helpers seen in recovered HTML --- */
+.red    { color: #B22222; }
+.style1 { font-weight: bold; }
+.courtsy { font-size: 0.85em; color: #555; font-style: italic; }
+
+/* Article pages (alternator.html, etc.) are bare <p> fragments with no
+ * .container wrapper. For those pages, treat the <body> itself as the
+ * white reading column on a light page background. */
+body:not(:has(.container)) {
+  max-width: 760px;
+  margin: 0 auto;
+  background: #FFF;
+  padding: 24px 28px 32px;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+/* Hide the broken-image icon for the few <img> tags whose original asset
+ * never appeared in any PDF (and so is also unrecoverable from any other
+ * source). The alt text still shows so the layout retains the caption. */
+img[data-missing="true"] {
+  display: inline-block;
+  min-width: 0;
+  background: #f6f6f6;
+  border: 1px dashed #bbb;
+  color: #999;
+  font-size: 0.85em;
+  text-align: center;
+  vertical-align: middle;
+}

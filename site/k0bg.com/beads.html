@@ -1,0 +1,50 @@
+
+
+<!DOCTYPE HTML>
+<html>
+<head><link href="twoColLiqLtHdr.css" rel="stylesheet" type="text/css">
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="alan applegate, amateur, amateur radio, antenna, auto-couplers, ferrite, ham radio, k0bg, mobile, wiring" />
+		<meta name="generator" content="Dreamweaver" />
+<title>The Proper Split Beads to Suppress RFI</title>
+<style type="text/css">
+<!--
+body, td, th {
+	font-family: georgia;
+}
+-->
+</style>
+</head><body><!-- KOBG_PROVENANCE_BANNER_START --><style>img[data-original-src]{height:auto !important;max-width:100%}</style><div style="background:#fffbe6;border:1px solid #f0c36d;padding:10px 14px;margin:0 0 14px 0;border-radius:6px;font:14px/1.45 system-ui,sans-serif;color:#3b2f00"><strong>Recovered article.</strong> HTML body is from Common Crawl (text only); images came from the Sep 2022 iOS PDF: <a href="_pdf/The Proper Split Beads to Suppress RFI.pdf">The Proper Split Beads to Suppress RFI.pdf</a> &middot; <a href="_pdf_assets/the-proper-split-beads-to-suppress-rfi/gallery.html">4 extracted images &amp; links</a> &middot; <strong>4 of 4 images merged inline</strong> (aspect-ratio matched). Original src preserved on each <code>&lt;img&gt;</code> as <code>data-original-src</code>.</div><!-- KOBG_PROVENANCE_BANNER_END -->
+
+
+    <p><img src="_pdf_assets/the-proper-split-beads-to-suppress-rfi/p01_03_e459d20e32dd.jpg" alt="Split Beads" width="276" height="37"  data-original-src="images/sign/nsplbeads.jpg"></p>
+    <p>Contents: <a href="#basics">Basics</a>; <a href="#where">Where  to Put Them &amp; Where Not To Put Them</a>;  <a href="#stereos"> </a><a href="#odds">Odds &amp; Ends</a>;    </p>
+    <p style="text-align: center; font-size: large;"><a id="basics"></a>Basics</p>
+  
+    <p>This article  isn't a treatise on how ferrites do the job they do. Rather, it is enough information to effectively use their inherent properties to suppress unwanted RF flowing on conductors. In other words, their use as RF chokes! With this in mind, there are a few <em>understandings</em> which need to be discussed up front. </p>
+    <p>When you place a ferrite bead over a conductor, you're essentially creating a tuned circuit, and you don't have to cut the wire! While DC can flow  through unimpeded, RF on the other hand is impeded, hence the term <em>impedance</em>! That impedance is a complex one, with X decreasing and R increasing with increasing frequency. Further, the resistance to the flow of RF current is closely tied to the <em>linear inch</em> of <em>material parallel to and surrounding the wire</em>. And, it goes up by the <em>square of the number of turns</em>.  That is to say, 4 turns through 1 bead, is the same as 1 turn through each of 16 beads! </p>
+    <p><a href="http://www.k0bg.com/images/rfi/bead1.jpg"><img src="_pdf_assets/the-proper-split-beads-to-suppress-rfi/p01_00_9c407726c671.jpg" alt="Split Bead" width="185" height="160" style="margin: 0px 5px 0px 0px; float:right; " / data-original-src="images/rfi/bead1.jpg"></a>Further, to be effective, the impedance of the choke must be <em>mostly resistive</em> within the frequency range we're trying to cover. If they're mostly inductive (multiple beads rather than multiple turns), applying them may  make matters worse, not better! </p>
+    <p>Ferrite bead, cores, and rods, come in a variety of materials called mixes. Some are better at HF frequencies (Mix 31), and some are better at VHF frequencies (Mix 43). While other mixes are available, these are the prime mixes used in amateur mobile chokes.</p>
+    <ul>
+      <li>There are several points which need to be emphasized. First, one turn, split bead chokes are all but worthless. This includes multiple, one turn beads. In other words, the real key to an effective choke is multiple turns on one bead! The use of the correct mix is also very important—mix 31 can be used effectively from about 2 MHz, to well over 200 MHz. Mix 43 shouldn't be used for frequencies under 30 MHz. One of the best sources is <a href="https://www.dxengineering.com" title="DXE Beads" target="_blank">DX Engineering</a>. </li>
+    </ul>
+    <p>By the way, surplus beads of unknown mix are a waste of time and resources. </p>
+<p style="text-align: center; font-size: large;"><a id="where"></a>Where to Put Them &amp; Where Not to Put Them</p>
+    <p><a href="http://www.k0bg.com/images/choke/finished.jpg"><img src="_pdf_assets/the-proper-split-beads-to-suppress-rfi/p01_01_33b3f87727c3.jpg" alt="Finished Choke" width="198" height="151" style="margin: 0px 5px 0px 5px; float:right; " / data-original-src="images/choke/finished.jpg"></a><a href="http://www.k0bg.com/images/antenna/coaxchoke.jpg"><img src="_pdf_assets/the-proper-split-beads-to-suppress-rfi/p01_02_c1fa76d467a7.jpg" alt="Coax Choke" width="200" height="191" style="margin: 0px 5px 0px 0px; float:left; " / data-original-src="images/antenna/coaxchoke.jpg"></a>Probably the most ubiquitous use of ferrite beads is in the form of an antenna motor  (and reed switch) lead choke. This requires special winding considerations if the choke is to be maximally effective. In this application, the wires should be  parallel wound without twisting to minimize inter-electrode capacitance. The <a href="http://www.k0bg.com/choke.html">How To Wind A Choke</a> article explains the details. </p>
+    <p>They're also used for <a href="http://www.k0bg.com/common.html" title="Common Mode Current" target="_top">common mode current</a> suppression. The  loops should be coiled loosely as the left photo indicates to prevent the coax core from migrating. Both motor lead and coax chokes should be mounted as close to the antenna as possible, and outside the vehicle! Remember, any wiring before the choke is part of the antenna, and will radiate.</p>
+    <p>In some cases, placing them over stereo speaker leads can be an effective way to keep RF out of the final stages of stereo amplifiers. Here too, multiple turns are necessary which might require rewiring existing cabling.</p>
+<p>Where not to place them includes low impedance DC power cables. This includes commercial ones advertised to prevent all sorts of maladies—they don't! If you adequately sized your power cabling (see  <a href="http://www.k0bg.com/wiring.html" target="_top">Wiring</a> article), the use of split beads (or brute force filters) is a waste of resources. </p>
+<p>Forget about placing them over high-tension ignition wires, as the typical result is <em>increased</em> RFI, not less!</p>
+<p><a HREF="javascript:javascript:history.go(-1)">☜Return☜</a></p>
+<p><span style="text-align: center; font-size: large;"><a id="odds"></a>Odds &amp; Ends </span></p>
+<p>Modern vehicles are awash with computerization. Their digital signals are transported over data networks, as well as discrete circuitry. Examples of the latter are the signals sent to fuel injectors, and COP ignition systems. If you went to the trouble of building harness extensions, to allow installing RF chokes on the feed wires to the injectors and/or COP units, the digital wave form would become integrated (rounded off) which would effect the timing to these systems with obvious consequences. </p>
+<p><a HREF="javascript:javascript:history.go(-1)">☜Return☜</a></p>
+<p><a title="Reload" href="http://www.k0bg.com" target="_top">Home</a></p>
+      <p>&nbsp;</p>
+
+
+</body></html>
+
+

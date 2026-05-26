@@ -1,0 +1,149 @@
+{
+  "pdf": "Portable Operation.pdf",
+  "slug": "portable-operation",
+  "page_count": 3,
+  "total_images": 15,
+  "unique_images": 15,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_897d616aadad.jpg",
+          "sha1_12": "897d616aadad",
+          "bytes": 7110
+        },
+        {
+          "index": 1,
+          "file": "p01_01_b2418581aec4.jpg",
+          "sha1_12": "b2418581aec4",
+          "bytes": 119275
+        },
+        {
+          "index": 2,
+          "file": "p01_02_ad92c5ec104e.jpg",
+          "sha1_12": "ad92c5ec104e",
+          "bytes": 86815
+        },
+        {
+          "index": 3,
+          "file": "p01_03_87b59918f68b.png",
+          "sha1_12": "87b59918f68b",
+          "bytes": 12877
+        },
+        {
+          "index": 4,
+          "file": "p01_04_9b38ef1ab6b7.jpg",
+          "sha1_12": "9b38ef1ab6b7",
+          "bytes": 3933
+        },
+        {
+          "index": 5,
+          "file": "p01_05_b1acc1ed0810.jpg",
+          "sha1_12": "b1acc1ed0810",
+          "bytes": 15672
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/alternator.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/electronics.html#data",
+        "http://www.hellroaring.com/",
+        "http://www.westmountainradio.com/product_info.php?products_id=iso_pwr",
+        "http://www.perfectswitch.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://batteryuniversity.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/portable.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_60471085f9e1.jpg",
+          "sha1_12": "60471085f9e1",
+          "bytes": 17772
+        },
+        {
+          "index": 1,
+          "file": "p02_01_4f3c6c4eb223.jpg",
+          "sha1_12": "4f3c6c4eb223",
+          "bytes": 3187
+        },
+        {
+          "index": 2,
+          "file": "p02_02_d872d9de3361.jpg",
+          "sha1_12": "d872d9de3361",
+          "bytes": 40304
+        },
+        {
+          "index": 3,
+          "file": "p02_03_9f671fc30e88.png",
+          "sha1_12": "9f671fc30e88",
+          "bytes": 9643
+        },
+        {
+          "index": 4,
+          "file": "p02_04_e908ae7bdf6d.jpg",
+          "sha1_12": "e908ae7bdf6d",
+          "bytes": 15436
+        },
+        {
+          "index": 5,
+          "file": "p02_05_b645a005e02f.jpg",
+          "sha1_12": "b645a005e02f",
+          "bytes": 75800
+        },
+        {
+          "index": 6,
+          "file": "p02_06_4963ee47537b.jpg",
+          "sha1_12": "4963ee47537b",
+          "bytes": 10134
+        },
+        {
+          "index": 7,
+          "file": "p02_07_97d1227bead2.jpg",
+          "sha1_12": "97d1227bead2",
+          "bytes": 29311
+        }
+      ],
+      "uris": [
+        "http://batteryuniversity.com/",
+        "http://www.buddipole.com/portablepower.html",
+        "http://www.k0bg.com/wiring.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.mfjenterprises.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.antennasbyn6lf.com/",
+        "http://www.k0bg.com/gallery2/main.php",
+        "http://www.buddipole.com/buddipole.html",
+        "http://www.buddipole.com/portablepower.html",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_78e7a55a2aed.jpg",
+          "sha1_12": "78e7a55a2aed",
+          "bytes": 454661
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/safety.html",
+        "http://www.k0bg.com/install.html",
+        "http://www.k0bg.com/insure.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

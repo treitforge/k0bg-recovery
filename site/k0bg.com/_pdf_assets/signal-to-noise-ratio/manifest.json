@@ -1,0 +1,80 @@
+{
+  "pdf": "Signal To Noise Ratio.pdf",
+  "slug": "signal-to-noise-ratio",
+  "page_count": 2,
+  "total_images": 6,
+  "unique_images": 6,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_a71a09ce6bb9.jpg",
+          "sha1_12": "a71a09ce6bb9",
+          "bytes": 30272
+        },
+        {
+          "index": 1,
+          "file": "p01_01_2c298a3af445.jpg",
+          "sha1_12": "2c298a3af445",
+          "bytes": 167644
+        },
+        {
+          "index": 2,
+          "file": "p01_02_1aca5247d3be.jpg",
+          "sha1_12": "1aca5247d3be",
+          "bytes": 16897
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/audio.html",
+        "http://www.arrl.org/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/bonding.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/eff.html",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/signal.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_aa615ad2461f.jpg",
+          "sha1_12": "aa615ad2461f",
+          "bytes": 51961
+        },
+        {
+          "index": 1,
+          "file": "p02_01_a15acaef0461.jpg",
+          "sha1_12": "a15acaef0461",
+          "bytes": 68831
+        },
+        {
+          "index": 2,
+          "file": "p02_02_45e1bf8f35ef.jpg",
+          "sha1_12": "45e1bf8f35ef",
+          "bytes": 34709
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/audio.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/audio.html",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/rfi.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/bonding.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

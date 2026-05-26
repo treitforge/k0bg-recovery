@@ -1,0 +1,78 @@
+{
+  "pdf": "Audio Filtering & Speakers.pdf",
+  "slug": "audio-filtering-and-speakers",
+  "page_count": 2,
+  "total_images": 8,
+  "unique_images": 8,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_c7431beae136.jpg",
+          "sha1_12": "c7431beae136",
+          "bytes": 23525
+        },
+        {
+          "index": 1,
+          "file": "p01_01_e56e668e6628.jpg",
+          "sha1_12": "e56e668e6628",
+          "bytes": 20072
+        },
+        {
+          "index": 2,
+          "file": "p01_02_e7803021ad6a.jpg",
+          "sha1_12": "e7803021ad6a",
+          "bytes": 18754
+        },
+        {
+          "index": 3,
+          "file": "p01_03_d8163e47764d.jpg",
+          "sha1_12": "d8163e47764d",
+          "bytes": 13954
+        },
+        {
+          "index": 4,
+          "file": "p01_04_18a9702f35f9.jpg",
+          "sha1_12": "18a9702f35f9",
+          "bytes": 3736
+        },
+        {
+          "index": 5,
+          "file": "p01_05_04e802de9a45.jpg",
+          "sha1_12": "04e802de9a45",
+          "bytes": 31940
+        },
+        {
+          "index": 6,
+          "file": "p01_06_f2ab9efad58c.jpg",
+          "sha1_12": "f2ab9efad58c",
+          "bytes": 2974
+        },
+        {
+          "index": 7,
+          "file": "p01_07_9871eb4fc947.jpg",
+          "sha1_12": "9871eb4fc947",
+          "bytes": 17027
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://gapantenna.com/shop/dsp-audio/hear-it-speaker/",
+        "http://www.westmountainradio.com/",
+        "https://www.bhi-ltd.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/audio.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)"
+      ]
+    }
+  ]
+}

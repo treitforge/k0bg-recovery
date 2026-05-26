@@ -1,0 +1,346 @@
+[
+  {
+    "pdf": "ABCs.pdf",
+    "slug": "abcs",
+    "pages": 3,
+    "images_total": 1,
+    "images_unique": 1,
+    "uris_total": 36
+  },
+  {
+    "pdf": "Alternators & Batteries.pdf",
+    "slug": "alternators-and-batteries",
+    "pages": 3,
+    "images_total": 17,
+    "images_unique": 16,
+    "uris_total": 36
+  },
+  {
+    "pdf": "Amateur Mobile Insurance.pdf",
+    "slug": "amateur-mobile-insurance",
+    "pages": 2,
+    "images_total": 7,
+    "images_unique": 7,
+    "uris_total": 9
+  },
+  {
+    "pdf": "Amateur Radio VHF Options.pdf",
+    "slug": "amateur-radio-vhf-options",
+    "pages": 5,
+    "images_total": 30,
+    "images_unique": 26,
+    "uris_total": 58
+  },
+  {
+    "pdf": "Amplifiers, Commercial.pdf",
+    "slug": "amplifiers-commercial",
+    "pages": 4,
+    "images_total": 18,
+    "images_unique": 16,
+    "uris_total": 44
+  },
+  {
+    "pdf": "Antenna Cap Hat.pdf",
+    "slug": "antenna-cap-hat",
+    "pages": 2,
+    "images_total": 9,
+    "images_unique": 8,
+    "uris_total": 9
+  },
+  {
+    "pdf": "Antenna Coil Adjustment Procedure.pdf",
+    "slug": "antenna-coil-adjustment-procedure",
+    "pages": 2,
+    "images_total": 8,
+    "images_unique": 8,
+    "uris_total": 8
+  },
+  {
+    "pdf": "Antenna Controllers.pdf",
+    "slug": "antenna-controllers",
+    "pages": 3,
+    "images_total": 12,
+    "images_unique": 12,
+    "uris_total": 32
+  },
+  {
+    "pdf": "Antenna Efficiency.pdf",
+    "slug": "antenna-efficiency",
+    "pages": 2,
+    "images_total": 8,
+    "images_unique": 7,
+    "uris_total": 28
+  },
+  {
+    "pdf": "Antenna Matching.pdf",
+    "slug": "antenna-matching",
+    "pages": 2,
+    "images_total": 12,
+    "images_unique": 12,
+    "uris_total": 21
+  },
+  {
+    "pdf": "Antenna Mounts.pdf",
+    "slug": "antenna-mounts",
+    "pages": 4,
+    "images_total": 23,
+    "images_unique": 23,
+    "uris_total": 59
+  },
+  {
+    "pdf": "Antenna Myths.pdf",
+    "slug": "antenna-myths",
+    "pages": 6,
+    "images_total": 11,
+    "images_unique": 9,
+    "uris_total": 58
+  },
+  {
+    "pdf": "Antenna Problems.pdf",
+    "slug": "antenna-problems",
+    "pages": 3,
+    "images_total": 12,
+    "images_unique": 12,
+    "uris_total": 34
+  },
+  {
+    "pdf": "Antenna Shootouts.pdf",
+    "slug": "antenna-shootouts",
+    "pages": 2,
+    "images_total": 8,
+    "images_unique": 8,
+    "uris_total": 14
+  },
+  {
+    "pdf": "Antenna, Commercial.pdf",
+    "slug": "antenna-commercial",
+    "pages": 4,
+    "images_total": 14,
+    "images_unique": 12,
+    "uris_total": 36
+  },
+  {
+    "pdf": "Audio Filtering & Speakers.pdf",
+    "slug": "audio-filtering-and-speakers",
+    "pages": 2,
+    "images_total": 8,
+    "images_unique": 8,
+    "uris_total": 8
+  },
+  {
+    "pdf": "Auto-Couplers.pdf",
+    "slug": "auto-couplers",
+    "pages": 1,
+    "images_total": 5,
+    "images_unique": 5,
+    "uris_total": 15
+  },
+  {
+    "pdf": "Bonding.pdf",
+    "slug": "bonding",
+    "pages": 2,
+    "images_total": 10,
+    "images_unique": 9,
+    "uris_total": 26
+  },
+  {
+    "pdf": "Cables & Interfacing.pdf",
+    "slug": "cables-and-interfacing",
+    "pages": 2,
+    "images_total": 6,
+    "images_unique": 6,
+    "uris_total": 20
+  },
+  {
+    "pdf": "Coax & PL259s.pdf",
+    "slug": "coax-and-pl259s",
+    "pages": 3,
+    "images_total": 14,
+    "images_unique": 14,
+    "uris_total": 33
+  },
+  {
+    "pdf": "Common Mode Currents.pdf",
+    "slug": "common-mode-currents",
+    "pages": 2,
+    "images_total": 4,
+    "images_unique": 4,
+    "uris_total": 19
+  },
+  {
+    "pdf": "Controlling Static.pdf",
+    "slug": "controlling-static",
+    "pages": 2,
+    "images_total": 7,
+    "images_unique": 6,
+    "uris_total": 16
+  },
+  {
+    "pdf": "Digital Electronics.pdf",
+    "slug": "digital-electronics",
+    "pages": 4,
+    "images_total": 5,
+    "images_unique": 5,
+    "uris_total": 49
+  },
+  {
+    "pdf": "Glossary of K0BG.pdf",
+    "slug": "glossary-of-k0bg",
+    "pages": 3,
+    "images_total": 1,
+    "images_unique": 1,
+    "uris_total": 7
+  },
+  {
+    "pdf": "Grounds, RF & DC.pdf",
+    "slug": "grounds-rf-and-dc",
+    "pages": 2,
+    "images_total": 3,
+    "images_unique": 3,
+    "uris_total": 21
+  },
+  {
+    "pdf": "Home Brew Things.pdf",
+    "slug": "home-brew-things",
+    "pages": 4,
+    "images_total": 19,
+    "images_unique": 16,
+    "uris_total": 49
+  },
+  {
+    "pdf": "How To Wind A Choke.pdf",
+    "slug": "how-to-wind-a-choke",
+    "pages": 2,
+    "images_total": 10,
+    "images_unique": 10,
+    "uris_total": 24
+  },
+  {
+    "pdf": "Hybrid Automobiles.pdf",
+    "slug": "hybrid-automobiles",
+    "pages": 1,
+    "images_total": 1,
+    "images_unique": 1,
+    "uris_total": 6
+  },
+  {
+    "pdf": "Ignition Notes on RFI.pdf",
+    "slug": "ignition-notes-on-rfi",
+    "pages": 1,
+    "images_total": 2,
+    "images_unique": 2,
+    "uris_total": 16
+  },
+  {
+    "pdf": "Installation Notes.pdf",
+    "slug": "installation-notes",
+    "pages": 3,
+    "images_total": 11,
+    "images_unique": 11,
+    "uris_total": 41
+  },
+  {
+    "pdf": "K\u00d8BG.COM.pdf",
+    "slug": "k-bg-com",
+    "pages": 2,
+    "images_total": 45,
+    "images_unique": 44,
+    "uris_total": 46
+  },
+  {
+    "pdf": "Miniature Radios.pdf",
+    "slug": "miniature-radios",
+    "pages": 6,
+    "images_total": 25,
+    "images_unique": 22,
+    "uris_total": 50
+  },
+  {
+    "pdf": "Neat Gadgets.pdf",
+    "slug": "neat-gadgets",
+    "pages": 3,
+    "images_total": 24,
+    "images_unique": 22,
+    "uris_total": 43
+  },
+  {
+    "pdf": "OTR & RV.pdf",
+    "slug": "otr-and-rv",
+    "pages": 3,
+    "images_total": 10,
+    "images_unique": 9,
+    "uris_total": 37
+  },
+  {
+    "pdf": "Portable Operation.pdf",
+    "slug": "portable-operation",
+    "pages": 3,
+    "images_total": 15,
+    "images_unique": 15,
+    "uris_total": 29
+  },
+  {
+    "pdf": "RFI Problems.pdf",
+    "slug": "rfi-problems",
+    "pages": 3,
+    "images_total": 5,
+    "images_unique": 5,
+    "uris_total": 33
+  },
+  {
+    "pdf": "Safe Mobile Operation.pdf",
+    "slug": "safe-mobile-operation",
+    "pages": 3,
+    "images_total": 3,
+    "images_unique": 3,
+    "uris_total": 29
+  },
+  {
+    "pdf": "Signal To Noise Ratio.pdf",
+    "slug": "signal-to-noise-ratio",
+    "pages": 2,
+    "images_total": 6,
+    "images_unique": 6,
+    "uris_total": 21
+  },
+  {
+    "pdf": "The Proper Split Beads to Suppress RFI.pdf",
+    "slug": "the-proper-split-beads-to-suppress-rfi",
+    "pages": 1,
+    "images_total": 4,
+    "images_unique": 4,
+    "uris_total": 8
+  },
+  {
+    "pdf": "Transmit Audio.pdf",
+    "slug": "transmit-audio",
+    "pages": 2,
+    "images_total": 5,
+    "images_unique": 4,
+    "uris_total": 18
+  },
+  {
+    "pdf": "Tricks of the Trade.pdf",
+    "slug": "tricks-of-the-trade",
+    "pages": 4,
+    "images_total": 25,
+    "images_unique": 23,
+    "uris_total": 41
+  },
+  {
+    "pdf": "What I Use.pdf",
+    "slug": "what-i-use",
+    "pages": 2,
+    "images_total": 7,
+    "images_unique": 7,
+    "uris_total": 26
+  },
+  {
+    "pdf": "Wiring & Grounding.pdf",
+    "slug": "wiring-and-grounding",
+    "pages": 6,
+    "images_total": 25,
+    "images_unique": 24,
+    "uris_total": 83
+  }
+]

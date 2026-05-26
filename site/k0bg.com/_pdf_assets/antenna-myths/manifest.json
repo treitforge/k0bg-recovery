@@ -1,0 +1,174 @@
+{
+  "pdf": "Antenna Myths.pdf",
+  "slug": "antenna-myths",
+  "page_count": 6,
+  "total_images": 11,
+  "unique_images": 9,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_5448b1bf208a.jpg",
+          "sha1_12": "5448b1bf208a",
+          "bytes": 6214
+        },
+        {
+          "index": 1,
+          "file": "p01_01_166361978fcf.jpg",
+          "sha1_12": "166361978fcf",
+          "bytes": 14110
+        }
+      ],
+      "uris": [
+        "http://www.arrl.org/",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/ground.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "http://scorpionantennas.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/signal.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/signal.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/choke.html",
+        "http://k0bg.com/myths.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_d80118c28dba.jpg",
+          "sha1_12": "d80118c28dba",
+          "bytes": 14824
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/choke.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/pdf/mobile_vhf_ant.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/antmount.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.scorpionantennas.com/"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/caphats.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/amplifiers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.eznec.com/"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [
+        {
+          "index": 0,
+          "file": "p04_00_f64b96d7de6d.jpg",
+          "sha1_12": "f64b96d7de6d",
+          "bytes": 18451
+        },
+        {
+          "index": 1,
+          "file": "p04_01_c965a78b51b9.jpg",
+          "sha1_12": "c965a78b51b9",
+          "bytes": 22525
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/shootout.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/caphats.html",
+        "http://www.k0bg.com/shootout.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.antennasbyn6lf.com/",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.eznec.com/"
+      ]
+    },
+    {
+      "page": 5,
+      "images": [
+        {
+          "index": 0,
+          "file": "p04_01_c965a78b51b9.jpg",
+          "sha1_12": "c965a78b51b9",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p05_01_d5cf5f695ad1.jpg",
+          "sha1_12": "d5cf5f695ad1",
+          "bytes": 219689
+        },
+        {
+          "index": 2,
+          "file": "p05_02_eaa5e8bcb59b.jpg",
+          "sha1_12": "eaa5e8bcb59b",
+          "bytes": 16889
+        },
+        {
+          "index": 3,
+          "file": "p05_03_c1fa76d467a7.jpg",
+          "sha1_12": "c1fa76d467a7",
+          "bytes": 17391
+        },
+        {
+          "index": 4,
+          "file": "p05_04_1ca4884c90d8.jpg",
+          "sha1_12": "1ca4884c90d8",
+          "bytes": 32857
+        }
+      ],
+      "uris": [
+        "http://www.eznec.com/",
+        "http://www.k0bg.com/eff.html#calculating",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/caphats.html",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 6,
+      "images": [
+        {
+          "index": 0,
+          "file": "p05_04_1ca4884c90d8.jpg",
+          "sha1_12": "1ca4884c90d8",
+          "duplicate": true
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/common.html"
+      ]
+    }
+  ]
+}

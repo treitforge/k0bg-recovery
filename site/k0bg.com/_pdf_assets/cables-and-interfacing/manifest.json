@@ -1,0 +1,79 @@
+{
+  "pdf": "Cables & Interfacing.pdf",
+  "slug": "cables-and-interfacing",
+  "page_count": 2,
+  "total_images": 6,
+  "unique_images": 6,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_febe3a1f863b.jpg",
+          "sha1_12": "febe3a1f863b",
+          "bytes": 90903
+        },
+        {
+          "index": 1,
+          "file": "p01_01_c0aa9ea99447.jpg",
+          "sha1_12": "c0aa9ea99447",
+          "bytes": 3958
+        },
+        {
+          "index": 2,
+          "file": "p01_02_331cc01e61a8.jpg",
+          "sha1_12": "331cc01e61a8",
+          "bytes": 10300
+        },
+        {
+          "index": 3,
+          "file": "p01_03_9e37c572fd47.jpg",
+          "sha1_12": "9e37c572fd47",
+          "bytes": 15966
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/wiring.html",
+        "http://www.qsl.net/g4wpw/date.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.mfjenterprises.com/",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.mfjenterprises.com/",
+        "http://www.k0bg.com/images/audio/HM151.jpg",
+        "http://www.k0bg.com/images/audio/HM151dataprotocol.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/cabling.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_3ad049a7dbc2.jpg",
+          "sha1_12": "3ad049a7dbc2",
+          "bytes": 27640
+        },
+        {
+          "index": 1,
+          "file": "p02_01_be9dedb74aa4.jpg",
+          "sha1_12": "be9dedb74aa4",
+          "bytes": 6684
+        }
+      ],
+      "uris": [
+        "http://www.digikey.com/",
+        "https://www.onlinecomponents.com/",
+        "http://www.mouser.com/",
+        "http://www.bomarinterconnect.com/",
+        "http://www.mouser.com/",
+        "http://www.mouser.com/",
+        "http://www.allentelproducts.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

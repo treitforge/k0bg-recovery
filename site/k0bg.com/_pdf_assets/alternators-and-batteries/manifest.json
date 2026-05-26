@@ -1,0 +1,168 @@
+{
+  "pdf": "Alternators & Batteries.pdf",
+  "slug": "alternators-and-batteries",
+  "page_count": 3,
+  "total_images": 17,
+  "unique_images": 16,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_7c2aea9ef07b.jpg",
+          "sha1_12": "7c2aea9ef07b",
+          "bytes": 7115
+        },
+        {
+          "index": 1,
+          "file": "p01_01_56a8eed49f6b.jpg",
+          "sha1_12": "56a8eed49f6b",
+          "bytes": 7080
+        },
+        {
+          "index": 2,
+          "file": "p01_02_5b2dba19c53f.jpg",
+          "sha1_12": "5b2dba19c53f",
+          "bytes": 612554
+        },
+        {
+          "index": 3,
+          "file": "p01_03_058f561cc1aa.jpg",
+          "sha1_12": "058f561cc1aa",
+          "bytes": 59948
+        },
+        {
+          "index": 4,
+          "file": "p01_04_5c3f3a7c05b4.jpg",
+          "sha1_12": "5c3f3a7c05b4",
+          "bytes": 353859
+        },
+        {
+          "index": 5,
+          "file": "p01_05_bdbb1820940e.jpg",
+          "sha1_12": "bdbb1820940e",
+          "bytes": 16709
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/#basics",
+        "http://www.k0bg.com/alternator.html",
+        "http://en.wikipedia.org/wiki/Ampere-turn",
+        "http://en.wikipedia.org/wiki/Load_dump",
+        "http://en.wikipedia.org/wiki/Hall_effect_sensor",
+        "http://www.k0bg.com/wiring.html",
+        "javascript:javascript:history.go(-1)",
+        "http://alternatorparts.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/alternator.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_04_5c3f3a7c05b4.jpg",
+          "sha1_12": "5c3f3a7c05b4",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p02_01_b062124ac403.jpg",
+          "sha1_12": "b062124ac403",
+          "bytes": 33102
+        },
+        {
+          "index": 2,
+          "file": "p02_02_aa9f2c2ef544.jpg",
+          "sha1_12": "aa9f2c2ef544",
+          "bytes": 5103
+        },
+        {
+          "index": 3,
+          "file": "p02_03_f840649b71dc.jpg",
+          "sha1_12": "f840649b71dc",
+          "bytes": 3541
+        },
+        {
+          "index": 4,
+          "file": "p02_04_f4128a9a0229.jpg",
+          "sha1_12": "f4128a9a0229",
+          "bytes": 9341
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/amplifiers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/images/noiseid/altwhine.aif",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/amplifiers.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.optimabatteries.com/us/en/",
+        "http://www.exide.com/",
+        "http://www.k0bg.com/portable.html",
+        "http://batteryuniversity.com/",
+        "http://www.arrl.org/",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_897d616aadad.jpg",
+          "sha1_12": "897d616aadad",
+          "bytes": 7110
+        },
+        {
+          "index": 1,
+          "file": "p03_01_87b59918f68b.png",
+          "sha1_12": "87b59918f68b",
+          "bytes": 12877
+        },
+        {
+          "index": 2,
+          "file": "p03_02_29bca713c212.jpg",
+          "sha1_12": "29bca713c212",
+          "bytes": 42286
+        },
+        {
+          "index": 3,
+          "file": "p03_03_2f355d91aa09.jpg",
+          "sha1_12": "2f355d91aa09",
+          "bytes": 25601
+        },
+        {
+          "index": 4,
+          "file": "p03_04_d872d9de3361.jpg",
+          "sha1_12": "d872d9de3361",
+          "bytes": 40304
+        },
+        {
+          "index": 5,
+          "file": "p03_05_4f3c6c4eb223.jpg",
+          "sha1_12": "4f3c6c4eb223",
+          "bytes": 3187
+        }
+      ],
+      "uris": [
+        "https://www.youtube.com/watch?v=6OaR58pLmlQ",
+        "http://fatfist.hubpages.com/hub/Car-Audio-CAPACITORS-Why-They-DONT-Work",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/portable.html",
+        "http://www.hellroaring.com/",
+        "http://www.perfectswitch.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.mfjenterprises.com/",
+        "http://www.k0bg.com/portable.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

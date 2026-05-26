@@ -1,0 +1,85 @@
+{
+  "pdf": "Antenna Shootouts.pdf",
+  "slug": "antenna-shootouts",
+  "page_count": 2,
+  "total_images": 8,
+  "unique_images": 8,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_1db295adb281.jpg",
+          "sha1_12": "1db295adb281",
+          "bytes": 1204243
+        },
+        {
+          "index": 1,
+          "file": "p01_01_9304e850ddc7.jpg",
+          "sha1_12": "9304e850ddc7",
+          "bytes": 178849
+        },
+        {
+          "index": 2,
+          "file": "p01_02_8762157f75d4.jpg",
+          "sha1_12": "8762157f75d4",
+          "bytes": 72772
+        },
+        {
+          "index": 3,
+          "file": "p01_03_543992ba6a23.jpg",
+          "sha1_12": "543992ba6a23",
+          "bytes": 13190
+        },
+        {
+          "index": 4,
+          "file": "p01_04_f64b96d7de6d.jpg",
+          "sha1_12": "f64b96d7de6d",
+          "bytes": 18451
+        },
+        {
+          "index": 5,
+          "file": "p01_05_ed5577de30ea.jpg",
+          "sha1_12": "ed5577de30ea",
+          "bytes": 15367
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/#veri",
+        "http://www.k0bg.com/caphats.html",
+        "http://www.k0bg.com/eff.html",
+        "http://www.arrl.org/",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/caphats.html",
+        "http://k0bg.com/shootout.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_a15acaef0461.jpg",
+          "sha1_12": "a15acaef0461",
+          "bytes": 68831
+        },
+        {
+          "index": 1,
+          "file": "p02_01_45e1bf8f35ef.jpg",
+          "sha1_12": "45e1bf8f35ef",
+          "bytes": 34709
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/bonding.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/signal.html",
+        "http://www.k0bg.com/bonding.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

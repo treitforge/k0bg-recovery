@@ -1,0 +1,114 @@
+{
+  "pdf": "Digital Electronics.pdf",
+  "slug": "digital-electronics",
+  "page_count": 4,
+  "total_images": 5,
+  "unique_images": 5,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_5247c1f0b145.jpg",
+          "sha1_12": "5247c1f0b145",
+          "bytes": 110643
+        },
+        {
+          "index": 1,
+          "file": "p01_01_0fa3d0e81050.jpg",
+          "sha1_12": "0fa3d0e81050",
+          "bytes": 211238
+        },
+        {
+          "index": 2,
+          "file": "p01_02_f17e0acc1c89.jpg",
+          "sha1_12": "f17e0acc1c89",
+          "bytes": 14341
+        },
+        {
+          "index": 3,
+          "file": "p01_03_def6100f1b74.jpg",
+          "sha1_12": "def6100f1b74",
+          "bytes": 18996
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/images/sign/nelectronics.jpg",
+        "http://www.fordemc.com/",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/images/pdf/ford.pdf",
+        "http://www.k0bg.com/images/pdf/GM.pdf",
+        "http://www.arrl.org/",
+        "http://www.arrl.org/auto-manufacturer-s-policies",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/wiring.html#loops",
+        "http://www.k0bg.com/rfi.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/electronics.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_6cb836699b45.jpg",
+          "sha1_12": "6cb836699b45",
+          "bytes": 16893
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/wiring.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.iso.org/iso/home.htm",
+        "http://www.k0bg.com/images/pdf/part15.pdf",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://en.wikipedia.org/wiki/On-board_diagnostics",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/wiring.html#loops",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/pdf/fmcemc.pdf",
+        "http://www.fordemc.com/",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/alternator.html",
+        "javascript:javascript:history.go(-1)",
+        "http://en.wikipedia.org/wiki/Hall_effect_sensor",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/rfi.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/hybrid.html",
+        "http://www.k0bg.com/ignition.html",
+        "http://www.k0bg.com/images/pdf/part15.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/rfi.html",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/choke.html",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "pdf": "Antenna Cap Hat.pdf",
+  "slug": "antenna-cap-hat",
+  "page_count": 2,
+  "total_images": 9,
+  "unique_images": 8,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_1db295adb281.jpg",
+          "sha1_12": "1db295adb281",
+          "bytes": 1204243
+        },
+        {
+          "index": 1,
+          "file": "p01_01_8762157f75d4.jpg",
+          "sha1_12": "8762157f75d4",
+          "bytes": 72772
+        },
+        {
+          "index": 2,
+          "file": "p01_02_60145ba44cda.jpg",
+          "sha1_12": "60145ba44cda",
+          "bytes": 2496
+        },
+        {
+          "index": 3,
+          "file": "p01_03_543992ba6a23.jpg",
+          "sha1_12": "543992ba6a23",
+          "bytes": 13190
+        },
+        {
+          "index": 4,
+          "file": "p01_04_9df3ccb0d935.jpg",
+          "sha1_12": "9df3ccb0d935",
+          "bytes": 39667
+        },
+        {
+          "index": 5,
+          "file": "p01_05_c547bea93a5a.jpg",
+          "sha1_12": "c547bea93a5a",
+          "bytes": 128131
+        },
+        {
+          "index": 6,
+          "file": "p01_06_b21dd51c8267.jpg",
+          "sha1_12": "b21dd51c8267",
+          "bytes": 297794
+        },
+        {
+          "index": 7,
+          "file": "p01_07_0e4a80d24db3.jpg",
+          "sha1_12": "0e4a80d24db3",
+          "bytes": 15090
+        }
+      ],
+      "uris": [
+        "http://www.arrl.org/",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/eff.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.scorpionantennas.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/caphats.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_06_b21dd51c8267.jpg",
+          "sha1_12": "b21dd51c8267",
+          "duplicate": true
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

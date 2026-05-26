@@ -1,0 +1,107 @@
+{
+  "pdf": "How To Wind A Choke.pdf",
+  "slug": "how-to-wind-a-choke",
+  "page_count": 2,
+  "total_images": 10,
+  "unique_images": 10,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_718f27385578.jpg",
+          "sha1_12": "718f27385578",
+          "bytes": 5271
+        },
+        {
+          "index": 1,
+          "file": "p01_01_21f7b7ec6334.jpg",
+          "sha1_12": "21f7b7ec6334",
+          "bytes": 188833
+        },
+        {
+          "index": 2,
+          "file": "p01_02_7dbc0fd6e21b.jpg",
+          "sha1_12": "7dbc0fd6e21b",
+          "bytes": 89252
+        },
+        {
+          "index": 3,
+          "file": "p01_03_d9c99def4f0d.jpg",
+          "sha1_12": "d9c99def4f0d",
+          "bytes": 112415
+        },
+        {
+          "index": 4,
+          "file": "p01_04_67f05e3f3245.jpg",
+          "sha1_12": "67f05e3f3245",
+          "bytes": 87692
+        },
+        {
+          "index": 5,
+          "file": "p01_05_33b3f87727c3.jpg",
+          "sha1_12": "33b3f87727c3",
+          "bytes": 94262
+        },
+        {
+          "index": 6,
+          "file": "p01_06_aaa0e3e99494.jpg",
+          "sha1_12": "aaa0e3e99494",
+          "bytes": 17494
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/antennas.html",
+        "http://tennatronix.com/",
+        "http://www.mfjenterprises.com/index.php",
+        "http://www.westmountainradio.com/product_info.php?products_id=targetuner&navcode=/fpTARGETuner1",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/controllers.html",
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/rfi.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.radioshack.com/home/index.jsp",
+        "http://www.allelectronics.com/",
+        "http://www.generalcable.com/GeneralCable/",
+        "http://www.homedepot.com/",
+        "http://www.lowes.com/",
+        "http://www3.3m.com/catalog/us/en001/auto_marine_aero/aerospace/node_GS5G5PSFJMbe/root_GST1T4S9TCgv/vroot_GSNNJ6NQDKge/gvel_3R0J9QPN38gl/theme_us_aerospace_3_0/command_AbcPageHandler/output_html",
+        "http://www.amidoncorp.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/choke.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_1b66c7ea8775.jpg",
+          "sha1_12": "1b66c7ea8775",
+          "bytes": 63932
+        },
+        {
+          "index": 1,
+          "file": "p02_01_b8782788c3c5.png",
+          "sha1_12": "b8782788c3c5",
+          "bytes": 47110
+        },
+        {
+          "index": 2,
+          "file": "p02_02_97916f552d3c.jpg",
+          "sha1_12": "97916f552d3c",
+          "bytes": 21945
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/images/neat/rescuetape.jpg",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

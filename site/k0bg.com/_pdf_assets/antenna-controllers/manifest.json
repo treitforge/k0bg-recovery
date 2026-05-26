@@ -1,0 +1,134 @@
+{
+  "pdf": "Antenna Controllers.pdf",
+  "slug": "antenna-controllers",
+  "page_count": 3,
+  "total_images": 12,
+  "unique_images": 12,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_33b3f87727c3.jpg",
+          "sha1_12": "33b3f87727c3",
+          "bytes": 94262
+        },
+        {
+          "index": 1,
+          "file": "p01_01_3937db295c1d.png",
+          "sha1_12": "3937db295c1d",
+          "bytes": 9018
+        },
+        {
+          "index": 2,
+          "file": "p01_02_b4b7d03863a2.jpg",
+          "sha1_12": "b4b7d03863a2",
+          "bytes": 39964
+        },
+        {
+          "index": 3,
+          "file": "p01_03_778a9e296b46.jpg",
+          "sha1_12": "778a9e296b46",
+          "bytes": 15350
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/antmount.html",
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/choke.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.westmountainradio.com/",
+        "http://www.ameritron.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/controllers.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_861c1354ccc1.jpg",
+          "sha1_12": "861c1354ccc1",
+          "bytes": 2732
+        },
+        {
+          "index": 1,
+          "file": "p02_01_3bf170d9c066.jpg",
+          "sha1_12": "3bf170d9c066",
+          "bytes": 2152
+        },
+        {
+          "index": 2,
+          "file": "p02_02_8a8d3b43ce2e.jpg",
+          "sha1_12": "8a8d3b43ce2e",
+          "bytes": 3849
+        },
+        {
+          "index": 3,
+          "file": "p02_03_5f84b576ca16.jpg",
+          "sha1_12": "5f84b576ca16",
+          "bytes": 263373
+        },
+        {
+          "index": 4,
+          "file": "p02_04_24956e6730aa.jpg",
+          "sha1_12": "24956e6730aa",
+          "bytes": 189850
+        },
+        {
+          "index": 5,
+          "file": "p02_05_53ee9791eeaf.jpg",
+          "sha1_12": "53ee9791eeaf",
+          "bytes": 73210
+        },
+        {
+          "index": 6,
+          "file": "p02_06_08ed153bbd6b.jpg",
+          "sha1_12": "08ed153bbd6b",
+          "bytes": 20236
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.ameritron.com/",
+        "http://k0bg.com/images/pdf/sdc100curset.pdf",
+        "http://www.ameritron.com/",
+        "http://www.k0bg.com/things.html",
+        "http://tunematic.jtcomms.com/wp/",
+        "javascript:javascript:history.go(-1)",
+        "http://tunematic.jtcomms.com/wp/",
+        "http://www.hamradio.com/",
+        "http://www.westmountainradio.com/product_info.php?products_id=targetuner&navcode=/fpTARGETuner1",
+        "http://www.westmountainradio.com/",
+        "http://tennatronix.com/"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_8ad6009d80d5.jpg",
+          "sha1_12": "8ad6009d80d5",
+          "bytes": 23221
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/things.html#bypass",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/things.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "pdf": "Bonding.pdf",
+  "slug": "bonding",
+  "page_count": 2,
+  "total_images": 10,
+  "unique_images": 9,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_e170fb3cc0c6.jpg",
+          "sha1_12": "e170fb3cc0c6",
+          "bytes": 2973
+        },
+        {
+          "index": 1,
+          "file": "p01_01_4f5d82e90e2a.jpg",
+          "sha1_12": "4f5d82e90e2a",
+          "bytes": 8236
+        },
+        {
+          "index": 2,
+          "file": "p01_02_1f96ed17eae2.jpg",
+          "sha1_12": "1f96ed17eae2",
+          "bytes": 84332
+        },
+        {
+          "index": 3,
+          "file": "p01_03_89794b4cbfd4.jpg",
+          "sha1_12": "89794b4cbfd4",
+          "bytes": 11837
+        }
+      ],
+      "uris": [
+        "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+        "http://www.k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://k0bg.com/images/antenna/Q-222R1.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/wiring.html#loops",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/signal.html#agc",
+        "javascript:javascript:history.go(-1)",
+        "https://abrind.com/product-category/grounding-braid-tinned-copper-flat/",
+        "http://www.electricmotioncompany.com/product/bonding-braid-eyelets-2/",
+        "http://www.hamradio.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.fastenal.com/web/home.ex",
+        "http://www.mouser.com/",
+        "https://www.onlinecomponents.com/",
+        "http://k0bg.com/bonding.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_02_1f96ed17eae2.jpg",
+          "sha1_12": "1f96ed17eae2",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p02_01_753f16c19a52.jpg",
+          "sha1_12": "753f16c19a52",
+          "bytes": 2340
+        },
+        {
+          "index": 2,
+          "file": "p02_02_ee087cae3985.jpg",
+          "sha1_12": "ee087cae3985",
+          "bytes": 31078
+        },
+        {
+          "index": 3,
+          "file": "p02_03_07ac91a728e4.jpg",
+          "sha1_12": "07ac91a728e4",
+          "bytes": 12844
+        },
+        {
+          "index": 4,
+          "file": "p02_04_327db015f258.jpg",
+          "sha1_12": "327db015f258",
+          "bytes": 26028
+        },
+        {
+          "index": 5,
+          "file": "p02_05_21903008b041.jpg",
+          "sha1_12": "21903008b041",
+          "bytes": 32713
+        }
+      ],
+      "uris": [
+        "http://shop.hobbylobby.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/common.html",
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/gallery2/main.php",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pdf": "Glossary of K0BG.pdf",
+  "slug": "glossary-of-k0bg",
+  "page_count": 3,
+  "total_images": 1,
+  "unique_images": 1,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_68b1968333a9.jpg",
+          "sha1_12": "68b1968333a9",
+          "bytes": 12042
+        }
+      ],
+      "uris": [
+        "http://www.optimabatteries.com/us/en/",
+        "http://www.exide.com/",
+        "http://www.optimabatteries.com/",
+        "http://k0bg.com/glossary.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [],
+      "uris": [
+        "http://www.optimabatteries.com/us/en/"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

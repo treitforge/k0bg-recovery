@@ -1,0 +1,92 @@
+{
+  "pdf": "RFI Problems.pdf",
+  "slug": "rfi-problems",
+  "page_count": 3,
+  "total_images": 5,
+  "unique_images": 5,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_c1fa76d467a7.jpg",
+          "sha1_12": "c1fa76d467a7",
+          "bytes": 17391
+        },
+        {
+          "index": 1,
+          "file": "p01_01_33b3f87727c3.jpg",
+          "sha1_12": "33b3f87727c3",
+          "bytes": 94262
+        },
+        {
+          "index": 2,
+          "file": "p01_02_ecb46adeb246.jpg",
+          "sha1_12": "ecb46adeb246",
+          "bytes": 13879
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/ignition.html",
+        "http://www.k0bg.com/images/noiseid/ignoise.aif",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/alternator.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/choke.html",
+        "http://www.k0bg.com/beads.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/common.html",
+        "http://k0bg.com/rfi.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_3937db295c1d.png",
+          "sha1_12": "3937db295c1d",
+          "bytes": 9018
+        },
+        {
+          "index": 1,
+          "file": "p02_01_1187a6427e6a.jpg",
+          "sha1_12": "1187a6427e6a",
+          "bytes": 31376
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/electronics.html",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://tvandnav2go.com/",
+        "http://www.westmountainradio.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/signal.html",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "http://www.k0bg.com/hybrid.html",
+        "http://www.k0bg.com/images/noiseid/Dieselenginenoise.mp3",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

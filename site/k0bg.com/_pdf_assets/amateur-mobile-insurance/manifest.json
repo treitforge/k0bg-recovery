@@ -1,0 +1,73 @@
+{
+  "pdf": "Amateur Mobile Insurance.pdf",
+  "slug": "amateur-mobile-insurance",
+  "page_count": 2,
+  "total_images": 7,
+  "unique_images": 7,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_3addaaf45f75.jpg",
+          "sha1_12": "3addaaf45f75",
+          "bytes": 15970
+        },
+        {
+          "index": 1,
+          "file": "p01_01_731d560ff4f3.png",
+          "sha1_12": "731d560ff4f3",
+          "bytes": 6006
+        },
+        {
+          "index": 2,
+          "file": "p01_02_94e3d90f3495.png",
+          "sha1_12": "94e3d90f3495",
+          "bytes": 6768
+        },
+        {
+          "index": 3,
+          "file": "p01_03_9ef86b4cec4e.png",
+          "sha1_12": "9ef86b4cec4e",
+          "bytes": 3505
+        },
+        {
+          "index": 4,
+          "file": "p01_04_08d02011d9f7.png",
+          "sha1_12": "08d02011d9f7",
+          "bytes": 6822
+        },
+        {
+          "index": 5,
+          "file": "p01_05_f6ef6523cea6.jpg",
+          "sha1_12": "f6ef6523cea6",
+          "bytes": 40929
+        },
+        {
+          "index": 6,
+          "file": "p01_06_0e91de9d1dbd.jpg",
+          "sha1_12": "0e91de9d1dbd",
+          "bytes": 15138
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/electronics.html#fore",
+        "javascript:javascript:history.go(-1)",
+        "http://www.arrl.org/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.arrl.org/",
+        "http://www.k0bg.com/images/pdf/MobileAmateurRadioPolicyStatement.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/insure.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [],
+      "uris": [
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

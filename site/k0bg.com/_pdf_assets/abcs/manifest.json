@@ -1,0 +1,70 @@
+{
+  "pdf": "ABCs.pdf",
+  "slug": "abcs",
+  "page_count": 3,
+  "total_images": 1,
+  "unique_images": 1,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_28fb710b5771.jpg",
+          "sha1_12": "28fb710b5771",
+          "bytes": 10537
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/hybrid.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/bonding.html",
+        "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+        "http://www.k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/miniature.html",
+        "http://www.k0bg.com/options.html",
+        "http://www.k0bg.com/signal.html",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.scorpionantennas.com/",
+        "http://www.k0bg.com/caphats.html",
+        "http://www.tarheelantennas.com/",
+        "http://www.ameritron.com/",
+        "http://www.k0bg.com/couplers.html",
+        "http://k0bg.com/abcs.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [],
+      "uris": [
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.new-tronics.com/main/index.html",
+        "http://www.k0bg.com/antennas.html#auto",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/antmount.html#bedcap",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/choke.html",
+        "http://www.k0bg.com/install.html",
+        "http://www.k0bg.com/safety.html",
+        "https://panavise.com/index.html?pageID=1&id1=28&id2=34&startat=1&--woSECTIONSdatarq=34&--SECTIONSword=ww",
+        "http://www.k0bg.com/install.html#airbags",
+        "http://www.k0bg.com/wiring.html"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/gallery2/main.php?g2_itemId=2220",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

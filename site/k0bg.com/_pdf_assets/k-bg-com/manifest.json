@@ -1,0 +1,339 @@
+{
+  "pdf": "K\u00d8BG.COM.pdf",
+  "slug": "k-bg-com",
+  "page_count": 2,
+  "total_images": 45,
+  "unique_images": 44,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_05edb4b091ac.jpg",
+          "sha1_12": "05edb4b091ac",
+          "bytes": 47022
+        },
+        {
+          "index": 1,
+          "file": "p01_01_28fb710b5771.jpg",
+          "sha1_12": "28fb710b5771",
+          "bytes": 10537
+        },
+        {
+          "index": 2,
+          "file": "p01_02_bdbb1820940e.jpg",
+          "sha1_12": "bdbb1820940e",
+          "bytes": 16709
+        },
+        {
+          "index": 3,
+          "file": "p01_03_75c359107ea8.jpg",
+          "sha1_12": "75c359107ea8",
+          "bytes": 16435
+        },
+        {
+          "index": 4,
+          "file": "p01_04_0e4a80d24db3.jpg",
+          "sha1_12": "0e4a80d24db3",
+          "bytes": 15090
+        },
+        {
+          "index": 5,
+          "file": "p01_05_8c68fc1e3fa5.jpg",
+          "sha1_12": "8c68fc1e3fa5",
+          "bytes": 17252
+        },
+        {
+          "index": 6,
+          "file": "p01_06_5931b59711a9.jpg",
+          "sha1_12": "5931b59711a9",
+          "bytes": 16188
+        },
+        {
+          "index": 7,
+          "file": "p01_07_778a9e296b46.jpg",
+          "sha1_12": "778a9e296b46",
+          "bytes": 15350
+        },
+        {
+          "index": 8,
+          "file": "p01_08_9c2e21e8a45d.jpg",
+          "sha1_12": "9c2e21e8a45d",
+          "bytes": 15441
+        },
+        {
+          "index": 9,
+          "file": "p01_09_2a35d11ce80c.jpg",
+          "sha1_12": "2a35d11ce80c",
+          "bytes": 15095
+        },
+        {
+          "index": 10,
+          "file": "p01_10_bcbc8d2be38a.jpg",
+          "sha1_12": "bcbc8d2be38a",
+          "bytes": 14493
+        },
+        {
+          "index": 11,
+          "file": "p01_11_166361978fcf.jpg",
+          "sha1_12": "166361978fcf",
+          "bytes": 14110
+        },
+        {
+          "index": 12,
+          "file": "p01_12_43b1b1301933.jpg",
+          "sha1_12": "43b1b1301933",
+          "bytes": 15070
+        },
+        {
+          "index": 13,
+          "file": "p01_13_ed5577de30ea.jpg",
+          "sha1_12": "ed5577de30ea",
+          "bytes": 15367
+        },
+        {
+          "index": 14,
+          "file": "p01_14_9871eb4fc947.jpg",
+          "sha1_12": "9871eb4fc947",
+          "bytes": 17027
+        },
+        {
+          "index": 15,
+          "file": "p01_15_579d665729f3.jpg",
+          "sha1_12": "579d665729f3",
+          "bytes": 14160
+        },
+        {
+          "index": 16,
+          "file": "p01_16_8c3f47f253f3.jpg",
+          "sha1_12": "8c3f47f253f3",
+          "bytes": 13914
+        },
+        {
+          "index": 17,
+          "file": "p01_17_89794b4cbfd4.jpg",
+          "sha1_12": "89794b4cbfd4",
+          "bytes": 11837
+        },
+        {
+          "index": 18,
+          "file": "p01_18_9e37c572fd47.jpg",
+          "sha1_12": "9e37c572fd47",
+          "bytes": 15966
+        },
+        {
+          "index": 19,
+          "file": "p01_19_3aadc47c8368.jpg",
+          "sha1_12": "3aadc47c8368",
+          "bytes": 13994
+        },
+        {
+          "index": 20,
+          "file": "p01_20_c1aab839b8c3.jpg",
+          "sha1_12": "c1aab839b8c3",
+          "bytes": 16724
+        },
+        {
+          "index": 21,
+          "file": "p01_21_1833fec7a3e9.jpg",
+          "sha1_12": "1833fec7a3e9",
+          "bytes": 14943
+        },
+        {
+          "index": 22,
+          "file": "p01_22_68b1968333a9.jpg",
+          "sha1_12": "68b1968333a9",
+          "bytes": 12042
+        },
+        {
+          "index": 23,
+          "file": "p01_23_3120e58d52bf.jpg",
+          "sha1_12": "3120e58d52bf",
+          "bytes": 16091
+        },
+        {
+          "index": 24,
+          "file": "p01_24_2678eedd52e4.jpg",
+          "sha1_12": "2678eedd52e4",
+          "bytes": 15581
+        },
+        {
+          "index": 25,
+          "file": "p01_25_aaa0e3e99494.jpg",
+          "sha1_12": "aaa0e3e99494",
+          "bytes": 17494
+        },
+        {
+          "index": 26,
+          "file": "p01_26_13be53b1aae4.jpg",
+          "sha1_12": "13be53b1aae4",
+          "bytes": 18142
+        },
+        {
+          "index": 27,
+          "file": "p01_27_5bccb2af628a.jpg",
+          "sha1_12": "5bccb2af628a",
+          "bytes": 15660
+        },
+        {
+          "index": 28,
+          "file": "p01_28_6d2afbf1b017.jpg",
+          "sha1_12": "6d2afbf1b017",
+          "bytes": 15164
+        },
+        {
+          "index": 29,
+          "file": "p01_29_0e91de9d1dbd.jpg",
+          "sha1_12": "0e91de9d1dbd",
+          "bytes": 15138
+        },
+        {
+          "index": 30,
+          "file": "p01_30_d4619cb29bf0.jpg",
+          "sha1_12": "d4619cb29bf0",
+          "bytes": 15442
+        },
+        {
+          "index": 31,
+          "file": "p01_31_a650a31a1019.jpg",
+          "sha1_12": "a650a31a1019",
+          "bytes": 13956
+        },
+        {
+          "index": 32,
+          "file": "p01_32_e69457d4f926.jpg",
+          "sha1_12": "e69457d4f926",
+          "bytes": 13151
+        },
+        {
+          "index": 33,
+          "file": "p01_33_5298f4a04693.jpg",
+          "sha1_12": "5298f4a04693",
+          "bytes": 13902
+        },
+        {
+          "index": 34,
+          "file": "p01_34_b1acc1ed0810.jpg",
+          "sha1_12": "b1acc1ed0810",
+          "bytes": 15672
+        }
+      ],
+      "uris": [
+        "http://www.arrl.org/",
+        "http://k0bg.com/abcs.html",
+        "http://k0bg.com/alternator.html",
+        "http://k0bg.com/amplifiers.html",
+        "http://k0bg.com/caphats.html",
+        "http://k0bg.com/coil.html",
+        "http://k0bg.com/antennas.html",
+        "http://k0bg.com/controllers.html",
+        "http://k0bg.com/eff.html",
+        "http://k0bg.com/match.html",
+        "http://k0bg.com/antmount.html",
+        "http://k0bg.com/myths.html",
+        "http://k0bg.com/problems.html",
+        "http://k0bg.com/shootout.html",
+        "http://k0bg.com/audio.html",
+        "http://k0bg.com/audioxmit.html",
+        "http://k0bg.com/couplers.html",
+        "http://k0bg.com/bonding.html",
+        "http://k0bg.com/cabling.html",
+        "http://k0bg.com/coax.html",
+        "http://k0bg.com/common.html",
+        "http://k0bg.com/static.html",
+        "http://k0bg.com/glossary.html",
+        "http://k0bg.com/ground.html",
+        "http://k0bg.com/things.html",
+        "http://k0bg.com/choke.html",
+        "http://k0bg.com/hybrid.html",
+        "http://k0bg.com/ignition.html",
+        "http://k0bg.com/install.html",
+        "http://k0bg.com/insure.html",
+        "http://k0bg.com/miniature.html",
+        "http://k0bg.com/neat.html",
+        "http://k0bg.com/otrrv.html",
+        "http://www.k0bg.com/gallery2/main.php",
+        "http://k0bg.com/portable.html",
+        "http://k0bg.com/"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_34_b1acc1ed0810.jpg",
+          "sha1_12": "b1acc1ed0810",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p02_01_ecb46adeb246.jpg",
+          "sha1_12": "ecb46adeb246",
+          "bytes": 13879
+        },
+        {
+          "index": 2,
+          "file": "p02_02_671017e4abef.jpg",
+          "sha1_12": "671017e4abef",
+          "bytes": 17295
+        },
+        {
+          "index": 3,
+          "file": "p02_03_1aca5247d3be.jpg",
+          "sha1_12": "1aca5247d3be",
+          "bytes": 16897
+        },
+        {
+          "index": 4,
+          "file": "p02_04_e459d20e32dd.jpg",
+          "sha1_12": "e459d20e32dd",
+          "bytes": 13485
+        },
+        {
+          "index": 5,
+          "file": "p02_05_6c0cced6f6bf.jpg",
+          "sha1_12": "6c0cced6f6bf",
+          "bytes": 15426
+        },
+        {
+          "index": 6,
+          "file": "p02_06_def6100f1b74.jpg",
+          "sha1_12": "def6100f1b74",
+          "bytes": 18996
+        },
+        {
+          "index": 7,
+          "file": "p02_07_3be38042298c.jpg",
+          "sha1_12": "3be38042298c",
+          "bytes": 13918
+        },
+        {
+          "index": 8,
+          "file": "p02_08_d3a931ca94a7.jpg",
+          "sha1_12": "d3a931ca94a7",
+          "bytes": 12545
+        },
+        {
+          "index": 9,
+          "file": "p02_09_6810a0f4bd8b.jpg",
+          "sha1_12": "6810a0f4bd8b",
+          "bytes": 15868
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/portable.html",
+        "http://k0bg.com/rfi.html",
+        "http://k0bg.com/safety.html",
+        "http://k0bg.com/signal.html",
+        "http://k0bg.com/beads.html",
+        "http://k0bg.com/tricks.html",
+        "http://k0bg.com/electronics.html",
+        "http://k0bg.com/options.html",
+        "http://k0bg.com/what.html",
+        "http://k0bg.com/wiring.html"
+      ]
+    }
+  ]
+}

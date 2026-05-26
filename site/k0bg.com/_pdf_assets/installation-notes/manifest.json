@@ -1,0 +1,136 @@
+{
+  "pdf": "Installation Notes.pdf",
+  "slug": "installation-notes",
+  "page_count": 3,
+  "total_images": 11,
+  "unique_images": 11,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_36470777bafa.jpg",
+          "sha1_12": "36470777bafa",
+          "bytes": 31728
+        },
+        {
+          "index": 1,
+          "file": "p01_01_5e81122d4f87.jpg",
+          "sha1_12": "5e81122d4f87",
+          "bytes": 87248
+        },
+        {
+          "index": 2,
+          "file": "p01_02_bb5161edfff3.jpg",
+          "sha1_12": "bb5161edfff3",
+          "bytes": 40609
+        },
+        {
+          "index": 3,
+          "file": "p01_03_fc5c0e30eec6.jpg",
+          "sha1_12": "fc5c0e30eec6",
+          "bytes": 45778
+        },
+        {
+          "index": 4,
+          "file": "p01_04_6d2afbf1b017.jpg",
+          "sha1_12": "6d2afbf1b017",
+          "bytes": 15164
+        }
+      ],
+      "uris": [
+        "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+        "http://k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://www.k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://k0bg.com/images/antenna/Q-222R1.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/electronics.html",
+        "http://k0bg.com/images/pdf/ford.pdf",
+        "http://www.k0bg.com/images/pdf/GM.pdf",
+        "http://www.arrl.org/",
+        "http://www.arrl.org/auto-manufacturer-s-policies",
+        "http://www.k0bg.com/gallery2/main.php?g2_itemId=250",
+        "javascript:javascript:history.go(-1)",
+        "https://www.google.com/#q=airbag+damage+photos",
+        "http://www.k0bg.com/images/safety/passairbag.wmv",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/safety.html",
+        "http://www.k0bg.com/gallery2/main.php?g2_itemId=2220",
+        "http://k0bg.com/install.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_f49764740814.jpg",
+          "sha1_12": "f49764740814",
+          "bytes": 8547
+        },
+        {
+          "index": 1,
+          "file": "p02_01_775c59692b28.jpg",
+          "sha1_12": "775c59692b28",
+          "bytes": 117337
+        },
+        {
+          "index": 2,
+          "file": "p02_02_1187a6427e6a.jpg",
+          "sha1_12": "1187a6427e6a",
+          "bytes": 31376
+        },
+        {
+          "index": 3,
+          "file": "p02_03_2efa76ec46f4.jpg",
+          "sha1_12": "2efa76ec46f4",
+          "bytes": 5555
+        },
+        {
+          "index": 4,
+          "file": "p02_04_fa828bd8fdd2.jpg",
+          "sha1_12": "fa828bd8fdd2",
+          "bytes": 41723
+        },
+        {
+          "index": 5,
+          "file": "p02_05_9fd66db048c9.jpg",
+          "sha1_12": "9fd66db048c9",
+          "bytes": 16439
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/amplifiers.html",
+        "http://tvandnav2go.com/",
+        "http://www.voxxintl.com/",
+        "http://www.k0bg.com/insure.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.rammount.com/hamradio.htm",
+        "http://w9iix.com/",
+        "http://www.gamberjohnson.com/",
+        "http://www.gamberjohnson.com/",
+        "http://www.panavise.com/",
+        "http://customers.havis.com/",
+        "http://www.gojotto.com/",
+        "http://www.panavise.com/",
+        "http://tac-comm.com/",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

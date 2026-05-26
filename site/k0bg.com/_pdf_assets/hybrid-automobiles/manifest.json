@@ -1,0 +1,28 @@
+{
+  "pdf": "Hybrid Automobiles.pdf",
+  "slug": "hybrid-automobiles",
+  "page_count": 1,
+  "total_images": 1,
+  "unique_images": 1,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_13be53b1aae4.jpg",
+          "sha1_12": "13be53b1aae4",
+          "bytes": 18142
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.teslamotors.com/blog/model-s-fire",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/",
+        "http://k0bg.com/hybrid.html"
+      ]
+    }
+  ]
+}

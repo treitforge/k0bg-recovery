@@ -1,0 +1,127 @@
+{
+  "pdf": "OTR & RV.pdf",
+  "slug": "otr-and-rv",
+  "page_count": 3,
+  "total_images": 10,
+  "unique_images": 9,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_2762e16988ee.jpg",
+          "sha1_12": "2762e16988ee",
+          "bytes": 43872
+        },
+        {
+          "index": 1,
+          "file": "p01_01_daded6e640f8.jpg",
+          "sha1_12": "daded6e640f8",
+          "bytes": 55685
+        },
+        {
+          "index": 2,
+          "file": "p01_02_07a372b47ecf.jpg",
+          "sha1_12": "07a372b47ecf",
+          "bytes": 328959
+        },
+        {
+          "index": 3,
+          "file": "p01_03_aa2ac5b7f296.jpg",
+          "sha1_12": "aa2ac5b7f296",
+          "bytes": 218699
+        },
+        {
+          "index": 4,
+          "file": "p01_04_e3317d09c66e.jpg",
+          "sha1_12": "e3317d09c66e",
+          "bytes": 16990
+        },
+        {
+          "index": 5,
+          "file": "p01_05_e69457d4f926.jpg",
+          "sha1_12": "e69457d4f926",
+          "bytes": 13151
+        }
+      ],
+      "uris": [
+        "http://www.forestriverinc.com/ForestRiverRV/",
+        "http://www.w8ji.com/rf_noise_powerstroke_diesel.htm",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/gallery2/main.php",
+        "http://www.rig-guard.com/",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.airstream.com/index.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/couplers.html",
+        "http://k0bg.com/otrrv.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_e2273f81dd21.jpg",
+          "sha1_12": "e2273f81dd21",
+          "bytes": 49707
+        },
+        {
+          "index": 1,
+          "file": "p02_01_9f671fc30e88.png",
+          "sha1_12": "9f671fc30e88",
+          "bytes": 9643
+        },
+        {
+          "index": 2,
+          "file": "p02_02_e908ae7bdf6d.jpg",
+          "sha1_12": "e908ae7bdf6d",
+          "bytes": 15436
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/gallery2/main.php",
+        "http://www.scorpionantennas.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.pulseelectronics.com/",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/alternator.html",
+        "http://www.k0bg.com/rfi.html",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/rfi.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/beads.html",
+        "http://www.k0bg.com/ignition.html",
+        "http://www.hellroaring.com/",
+        "http://www.k0bg.com/alternator.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/portable.html"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_02_e908ae7bdf6d.jpg",
+          "sha1_12": "e908ae7bdf6d",
+          "duplicate": true
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

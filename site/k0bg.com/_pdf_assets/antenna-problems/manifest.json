@@ -1,0 +1,136 @@
+{
+  "pdf": "Antenna Problems.pdf",
+  "slug": "antenna-problems",
+  "page_count": 3,
+  "total_images": 12,
+  "unique_images": 12,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_1ca4884c90d8.jpg",
+          "sha1_12": "1ca4884c90d8",
+          "bytes": 32857
+        },
+        {
+          "index": 1,
+          "file": "p01_01_345c69432ceb.jpg",
+          "sha1_12": "345c69432ceb",
+          "bytes": 240215
+        },
+        {
+          "index": 2,
+          "file": "p01_02_792c7dd593d0.jpg",
+          "sha1_12": "792c7dd593d0",
+          "bytes": 49007
+        },
+        {
+          "index": 3,
+          "file": "p01_03_3c808c89e8fe.jpg",
+          "sha1_12": "3c808c89e8fe",
+          "bytes": 81794
+        },
+        {
+          "index": 4,
+          "file": "p01_04_c1fa76d467a7.jpg",
+          "sha1_12": "c1fa76d467a7",
+          "bytes": 17391
+        },
+        {
+          "index": 5,
+          "file": "p01_05_33b3f87727c3.jpg",
+          "sha1_12": "33b3f87727c3",
+          "bytes": 94262
+        },
+        {
+          "index": 6,
+          "file": "p01_06_43b1b1301933.jpg",
+          "sha1_12": "43b1b1301933",
+          "bytes": 15070
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/coax.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/controllers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/problems.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_3bf170d9c066.jpg",
+          "sha1_12": "3bf170d9c066",
+          "bytes": 2152
+        },
+        {
+          "index": 1,
+          "file": "p02_01_eaa5e8bcb59b.jpg",
+          "sha1_12": "eaa5e8bcb59b",
+          "bytes": 16889
+        },
+        {
+          "index": 2,
+          "file": "p02_02_b8782788c3c5.png",
+          "sha1_12": "b8782788c3c5",
+          "bytes": 47110
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/install.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/ground.html",
+        "http://www.k0bg.com/wiring.html#loop",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/antmount.html#far",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/match.html",
+        "http://www.k0bg.com/coil.html",
+        "http://www.k0bg.com/coax.html",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_b4b7d03863a2.jpg",
+          "sha1_12": "b4b7d03863a2",
+          "bytes": 39964
+        },
+        {
+          "index": 1,
+          "file": "p03_01_2843febf216c.jpg",
+          "sha1_12": "2843febf216c",
+          "bytes": 51645
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.ameritron.com/",
+        "javascript:javascript:history.go(-1)",
+        "https://breedlovemounts.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/miniature.html",
+        "http://www.k0bg.com/controllers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

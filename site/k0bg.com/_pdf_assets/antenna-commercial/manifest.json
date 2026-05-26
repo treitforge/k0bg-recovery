@@ -1,0 +1,156 @@
+{
+  "pdf": "Antenna, Commercial.pdf",
+  "slug": "antenna-commercial",
+  "page_count": 4,
+  "total_images": 14,
+  "unique_images": 12,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_b78a42284756.jpg",
+          "sha1_12": "b78a42284756",
+          "bytes": 117635
+        },
+        {
+          "index": 1,
+          "file": "p01_01_5d13519d534f.jpg",
+          "sha1_12": "5d13519d534f",
+          "bytes": 7187
+        },
+        {
+          "index": 2,
+          "file": "p01_02_342107b8e608.png",
+          "sha1_12": "342107b8e608",
+          "bytes": 9079
+        },
+        {
+          "index": 3,
+          "file": "p01_03_5931b59711a9.jpg",
+          "sha1_12": "5931b59711a9",
+          "bytes": 16188
+        }
+      ],
+      "uris": [
+        "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+        "http://k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://k0bg.com/images/antenna/Q-222R1.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/signal.html",
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/eff.html",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/antennas.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_02_342107b8e608.png",
+          "sha1_12": "342107b8e608",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p02_01_1ca4884c90d8.jpg",
+          "sha1_12": "1ca4884c90d8",
+          "bytes": 32857
+        },
+        {
+          "index": 2,
+          "file": "p02_02_5ea3b06c8fba.jpg",
+          "sha1_12": "5ea3b06c8fba",
+          "bytes": 71849
+        },
+        {
+          "index": 3,
+          "file": "p02_03_603bbd01b24f.jpg",
+          "sha1_12": "603bbd01b24f",
+          "bytes": 6712
+        },
+        {
+          "index": 4,
+          "file": "p02_04_9304e850ddc7.jpg",
+          "sha1_12": "9304e850ddc7",
+          "bytes": 178849
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/controllers.html",
+        "http://www.k0bg.com/choke.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/controllers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.scorpionantennas.com/",
+        "http://www.tarheelantennas.com/",
+        "http://www.scorpionantennas.com/"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_04_9304e850ddc7.jpg",
+          "sha1_12": "9304e850ddc7",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p03_01_5448b1bf208a.jpg",
+          "sha1_12": "5448b1bf208a",
+          "bytes": 6214
+        },
+        {
+          "index": 2,
+          "file": "p03_02_5a6d6e21df4d.jpg",
+          "sha1_12": "5a6d6e21df4d",
+          "bytes": 4847
+        },
+        {
+          "index": 3,
+          "file": "p03_03_bb1d08c361eb.jpg",
+          "sha1_12": "bb1d08c361eb",
+          "bytes": 34678
+        },
+        {
+          "index": 4,
+          "file": "p03_04_a1438b5c68c3.jpg",
+          "sha1_12": "a1438b5c68c3",
+          "bytes": 2175
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/eff.html",
+        "http://www.k0bg.com/match.html",
+        "http://www.scorpionantennas.com/",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/history/binet.jpg",
+        "javascript:javascript:history.go(-1)",
+        "http://www.new-tronics.com/main/index.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/static.html"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [],
+      "uris": [
+        "http://www.k0bg.com/static.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

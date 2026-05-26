@@ -1,0 +1,48 @@
+{
+  "pdf": "The Proper Split Beads to Suppress RFI.pdf",
+  "slug": "the-proper-split-beads-to-suppress-rfi",
+  "page_count": 1,
+  "total_images": 4,
+  "unique_images": 4,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_9c407726c671.jpg",
+          "sha1_12": "9c407726c671",
+          "bytes": 16330
+        },
+        {
+          "index": 1,
+          "file": "p01_01_33b3f87727c3.jpg",
+          "sha1_12": "33b3f87727c3",
+          "bytes": 94262
+        },
+        {
+          "index": 2,
+          "file": "p01_02_c1fa76d467a7.jpg",
+          "sha1_12": "c1fa76d467a7",
+          "bytes": 17391
+        },
+        {
+          "index": 3,
+          "file": "p01_03_e459d20e32dd.jpg",
+          "sha1_12": "e459d20e32dd",
+          "bytes": 13485
+        }
+      ],
+      "uris": [
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/choke.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/wiring.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/",
+        "http://k0bg.com/beads.html"
+      ]
+    }
+  ]
+}

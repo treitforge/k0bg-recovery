@@ -1,0 +1,284 @@
+{
+  "pdf": "Wiring & Grounding.pdf",
+  "slug": "wiring-and-grounding",
+  "page_count": 6,
+  "total_images": 25,
+  "unique_images": 24,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_e5f49d336e5b.jpg",
+          "sha1_12": "e5f49d336e5b",
+          "bytes": 48199
+        },
+        {
+          "index": 1,
+          "file": "p01_01_cf3fcb8687d3.jpg",
+          "sha1_12": "cf3fcb8687d3",
+          "bytes": 116812
+        },
+        {
+          "index": 2,
+          "file": "p01_02_76dd687c0caa.jpg",
+          "sha1_12": "76dd687c0caa",
+          "bytes": 93190
+        },
+        {
+          "index": 3,
+          "file": "p01_03_6810a0f4bd8b.jpg",
+          "sha1_12": "6810a0f4bd8b",
+          "bytes": 15868
+        }
+      ],
+      "uris": [
+        "http://www.nfpa.org/",
+        "http://www.k0bg.com/electronics.html",
+        "javascript:javascript:history.go(-1)",
+        "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+        "http://www.k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://www.k0bg.com/images/antenna/Q-222R1.pdf",
+        "http://www.k0bg.com/images/antenna/Q-222R1.pdf",
+        "https://en.wikipedia.org/wiki/Galvanic_corrosion",
+        "http://en.wikipedia.org/wiki/Hall_effect_sensor",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/wiring.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_7c2aea9ef07b.jpg",
+          "sha1_12": "7c2aea9ef07b",
+          "bytes": 7115
+        },
+        {
+          "index": 1,
+          "file": "p02_01_aa9f2c2ef544.jpg",
+          "sha1_12": "aa9f2c2ef544",
+          "bytes": 5103
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/rfi.html",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/alternator.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/signal.html",
+        "http://www.k0bg.com/alternator.html",
+        "http://www.k0bg.com/common.html",
+        "http://www.k0bg.com/alternator.html#farad",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.arrl.org/",
+        "http://www.calculator.net/voltage-drop-calculator.html"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_00_3937db295c1d.png",
+          "sha1_12": "3937db295c1d",
+          "bytes": 9018
+        },
+        {
+          "index": 1,
+          "file": "p03_01_0d367d298e0a.jpg",
+          "sha1_12": "0d367d298e0a",
+          "bytes": 7152
+        },
+        {
+          "index": 2,
+          "file": "p03_02_099a4b19055b.jpg",
+          "sha1_12": "099a4b19055b",
+          "bytes": 17173
+        },
+        {
+          "index": 3,
+          "file": "p03_03_2ddb61234a87.jpg",
+          "sha1_12": "2ddb61234a87",
+          "bytes": 29254
+        },
+        {
+          "index": 4,
+          "file": "p03_04_b8782788c3c5.png",
+          "sha1_12": "b8782788c3c5",
+          "bytes": 47110
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/amplifiers.html",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.tnb.com/pub/",
+        "http://www.westmountainradio.com/",
+        "http://www.mfjenterprises.com/",
+        "http://www.mfjenterprises.com/",
+        "http://www.powerwerx.com/",
+        "http://www.westmountainradio.com/",
+        "http://www.westmountainradio.com/"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [
+        {
+          "index": 0,
+          "file": "p04_00_6119b00c2393.jpg",
+          "sha1_12": "6119b00c2393",
+          "bytes": 41027
+        },
+        {
+          "index": 1,
+          "file": "p03_04_b8782788c3c5.png",
+          "sha1_12": "b8782788c3c5",
+          "duplicate": true
+        },
+        {
+          "index": 2,
+          "file": "p04_02_a1b62d16f4f3.jpg",
+          "sha1_12": "a1b62d16f4f3",
+          "bytes": 289191
+        },
+        {
+          "index": 3,
+          "file": "p04_03_8b7a10856a3e.jpg",
+          "sha1_12": "8b7a10856a3e",
+          "bytes": 170892
+        },
+        {
+          "index": 4,
+          "file": "p04_04_0383800656ce.jpg",
+          "sha1_12": "0383800656ce",
+          "bytes": 13207
+        }
+      ],
+      "uris": [
+        "http://www.fastenal.com/web/home.ex",
+        "http://www.newark.com/",
+        "http://www.mouser.com/",
+        "http://www.digikey.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/neat/rescuetape.jpg",
+        "http://www.advancemcs.com/",
+        "http://www.amazon.com/Insulated-Battery-Power-Posts-BLACK/dp/B00TU3L8WC/ref=sr_1_3?s=automotive&ie=UTF8&qid=1433252759&sr=1-3",
+        "http://bluesea.com/",
+        "http://www.westmarine.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.littelfuse.com/",
+        "http://www.k0bg.com/images/pdf/maxifusedata.pdf",
+        "http://www.littelfuse.com/products/fuses/automotive-passenger-car/cartridge-fuses.aspx",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 5,
+      "images": [
+        {
+          "index": 0,
+          "file": "p05_00_87b59918f68b.png",
+          "sha1_12": "87b59918f68b",
+          "bytes": 12877
+        },
+        {
+          "index": 1,
+          "file": "p05_01_e5b1d0f3cd15.jpg",
+          "sha1_12": "e5b1d0f3cd15",
+          "bytes": 5276
+        },
+        {
+          "index": 2,
+          "file": "p05_02_e7b140242ec2.jpg",
+          "sha1_12": "e7b140242ec2",
+          "bytes": 9395
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.perfectswitch.com/",
+        "http://www.perfectswitch.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.digikey.com/",
+        "http://www.fastenal.com/web/home.ex",
+        "http://www.mouser.com/",
+        "https://www.onlinecomponents.com/",
+        "http://www.powerwerx.com/",
+        "http://bluesea.com/productline/overview/127",
+        "http://www.westmarine.com/webapp/wcs/stores/servlet/TopCategories1_11151_10001_-1",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)"
+      ]
+    },
+    {
+      "page": 6,
+      "images": [
+        {
+          "index": 0,
+          "file": "p06_00_fd6647f44ebf.jpg",
+          "sha1_12": "fd6647f44ebf",
+          "bytes": 55047
+        },
+        {
+          "index": 1,
+          "file": "p06_01_1b4c0b5958b9.jpg",
+          "sha1_12": "1b4c0b5958b9",
+          "bytes": 52467
+        },
+        {
+          "index": 2,
+          "file": "p06_02_753f16c19a52.jpg",
+          "sha1_12": "753f16c19a52",
+          "bytes": 2340
+        },
+        {
+          "index": 3,
+          "file": "p06_03_14fec7e7bc99.jpg",
+          "sha1_12": "14fec7e7bc99",
+          "bytes": 81371
+        },
+        {
+          "index": 4,
+          "file": "p06_04_c7947e2f7758.jpg",
+          "sha1_12": "c7947e2f7758",
+          "bytes": 18297
+        },
+        {
+          "index": 5,
+          "file": "p06_05_8986a62273f1.jpg",
+          "sha1_12": "8986a62273f1",
+          "bytes": 21112
+        }
+      ],
+      "uris": [
+        "http://www.digikey.com/",
+        "http://www.rescuetape.com/",
+        "http://www.allelectronics.com/",
+        "http://www.digikey.com/",
+        "http://www.harborfreight.com/catalogsearch/result/?q=heat+gun&Submit=Go",
+        "http://www.fastenal.com/web/home.ex",
+        "https://www.onlinecomponents.com/",
+        "http://www.mouser.com/",
+        "http://www.k-chem.net/vehicle%20fires.pdf",
+        "javascript:javascript:history.go(-1)",
+        "http://www.fastenal.com/web/home.ex",
+        "http://www.tnb.com/pub/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.westmountainradio.com/",
+        "http://www.powerwerx.com/",
+        "javascript:javascript:history.go(-1)"
+      ]
+    }
+  ]
+}

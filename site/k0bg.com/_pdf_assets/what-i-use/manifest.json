@@ -1,0 +1,91 @@
+{
+  "pdf": "What I Use.pdf",
+  "slug": "what-i-use",
+  "page_count": 2,
+  "total_images": 7,
+  "unique_images": 7,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_e2b195adc6dc.jpg",
+          "sha1_12": "e2b195adc6dc",
+          "bytes": 144283
+        },
+        {
+          "index": 1,
+          "file": "p01_01_9304e850ddc7.jpg",
+          "sha1_12": "9304e850ddc7",
+          "bytes": 178849
+        },
+        {
+          "index": 2,
+          "file": "p01_02_e9fc0dbe91e4.jpg",
+          "sha1_12": "e9fc0dbe91e4",
+          "bytes": 9664
+        },
+        {
+          "index": 3,
+          "file": "p01_03_d3a931ca94a7.jpg",
+          "sha1_12": "d3a931ca94a7",
+          "bytes": 12545
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.m2inc.com/",
+        "http://www.k0bg.com/gallery2/main.php?g2_itemId=12",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/caphats.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/amplifiers.html",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.k0bg.com/install.html",
+        "http://www.k0bg.com/antennas.html",
+        "http://www.k0bg.com/antmount.html",
+        "http://www.k0bg.com/what.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_75ffc98ac403.jpg",
+          "sha1_12": "75ffc98ac403",
+          "bytes": 106648
+        },
+        {
+          "index": 1,
+          "file": "p02_01_5c3f3a7c05b4.jpg",
+          "sha1_12": "5c3f3a7c05b4",
+          "bytes": 353859
+        },
+        {
+          "index": 2,
+          "file": "p02_02_1187a6427e6a.jpg",
+          "sha1_12": "1187a6427e6a",
+          "bytes": 31376
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/electronics.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.hammfg.com/files/literature/tric-overview.pdf",
+        "http://www.mouser.com/",
+        "http://www.digikey.com/",
+        "http://tennatronix.com/",
+        "http://www.mfjenterprises.com/index.php",
+        "http://www.tunematic.us/",
+        "http://www.westmountainradio.com/product_info.php?products_id=targetuner",
+        "javascript:javascript:history.go(-1)",
+        "http://tvandnav2go.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/eff.html",
+        "javascript:javascript:history.go(-1)"
+      ]
+    }
+  ]
+}

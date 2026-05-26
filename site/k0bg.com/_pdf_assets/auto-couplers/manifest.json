@@ -1,0 +1,61 @@
+{
+  "pdf": "Auto-Couplers.pdf",
+  "slug": "auto-couplers",
+  "page_count": 1,
+  "total_images": 5,
+  "unique_images": 5,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_74ea6974576e.jpg",
+          "sha1_12": "74ea6974576e",
+          "bytes": 2782
+        },
+        {
+          "index": 1,
+          "file": "p01_01_626119a640ff.jpg",
+          "sha1_12": "626119a640ff",
+          "bytes": 19995
+        },
+        {
+          "index": 2,
+          "file": "p01_02_98759aac46a2.png",
+          "sha1_12": "98759aac46a2",
+          "bytes": 48180
+        },
+        {
+          "index": 3,
+          "file": "p01_03_9304e850ddc7.jpg",
+          "sha1_12": "9304e850ddc7",
+          "bytes": 178849
+        },
+        {
+          "index": 4,
+          "file": "p01_04_8c3f47f253f3.jpg",
+          "sha1_12": "8c3f47f253f3",
+          "bytes": 13914
+        }
+      ],
+      "uris": [
+        "https://breedlovemounts.com/",
+        "http://www.icomamerica.com/en/amateur/",
+        "http://www.yaesu.com/",
+        "http://www.alinco.com/",
+        "http://www.mfjenterprises.com/",
+        "http://www.ldgelectronics.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/caphats.html",
+        "http://www.commercemetals.com/",
+        "http://www.speedymetals.com/",
+        "http://www.metalsdepot.com/",
+        "http://www.k0bg.com/caphats.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/",
+        "http://k0bg.com/couplers.html"
+      ]
+    }
+  ]
+}

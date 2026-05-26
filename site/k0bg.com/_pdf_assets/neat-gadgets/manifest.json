@@ -1,0 +1,217 @@
+{
+  "pdf": "Neat Gadgets.pdf",
+  "slug": "neat-gadgets",
+  "page_count": 3,
+  "total_images": 24,
+  "unique_images": 22,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_36a1c9eac48b.jpg",
+          "sha1_12": "36a1c9eac48b",
+          "bytes": 57617
+        },
+        {
+          "index": 1,
+          "file": "p01_01_79e6afac18f1.jpg",
+          "sha1_12": "79e6afac18f1",
+          "bytes": 36579
+        },
+        {
+          "index": 2,
+          "file": "p01_02_c965a78b51b9.jpg",
+          "sha1_12": "c965a78b51b9",
+          "bytes": 22525
+        },
+        {
+          "index": 3,
+          "file": "p01_03_0b9f936b7505.jpg",
+          "sha1_12": "0b9f936b7505",
+          "bytes": 254428
+        },
+        {
+          "index": 4,
+          "file": "p01_04_3252bc913570.jpg",
+          "sha1_12": "3252bc913570",
+          "bytes": 107564
+        },
+        {
+          "index": 5,
+          "file": "p01_05_cfec845f4669.jpg",
+          "sha1_12": "cfec845f4669",
+          "bytes": 39203
+        },
+        {
+          "index": 6,
+          "file": "p01_06_c7947e2f7758.jpg",
+          "sha1_12": "c7947e2f7758",
+          "bytes": 18297
+        },
+        {
+          "index": 7,
+          "file": "p01_07_8986a62273f1.jpg",
+          "sha1_12": "8986a62273f1",
+          "bytes": 21112
+        },
+        {
+          "index": 8,
+          "file": "p01_08_a650a31a1019.jpg",
+          "sha1_12": "a650a31a1019",
+          "bytes": 13956
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/#solder",
+        "http://www.k0bg.com/tricks.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.mfjenterprises.com/",
+        "http://www.k0bg.com/coil.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.rigolna.com/products/spectrum-analyzers/dsa800/dsa815/",
+        "javascript:javascript:history.go(-1)",
+        "https://www.dxengineering.com/",
+        "http://www.k0bg.com/coax.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.westmountainradio.com/",
+        "http://k0bg.com/neat.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_0bdd905df157.png",
+          "sha1_12": "0bdd905df157",
+          "bytes": 2153
+        },
+        {
+          "index": 1,
+          "file": "p01_07_8986a62273f1.jpg",
+          "sha1_12": "8986a62273f1",
+          "duplicate": true
+        },
+        {
+          "index": 2,
+          "file": "p02_02_d9d6487215a6.jpg",
+          "sha1_12": "d9d6487215a6",
+          "bytes": 30663
+        },
+        {
+          "index": 3,
+          "file": "p02_03_89187d06e9ed.png",
+          "sha1_12": "89187d06e9ed",
+          "bytes": 19992
+        },
+        {
+          "index": 4,
+          "file": "p02_04_fa642d7b9f02.jpg",
+          "sha1_12": "fa642d7b9f02",
+          "bytes": 20964
+        },
+        {
+          "index": 5,
+          "file": "p02_05_df3252cff046.jpg",
+          "sha1_12": "df3252cff046",
+          "bytes": 5304
+        },
+        {
+          "index": 6,
+          "file": "p02_06_2c1a5062851e.jpg",
+          "sha1_12": "2c1a5062851e",
+          "bytes": 5576
+        },
+        {
+          "index": 7,
+          "file": "p02_07_7ee9bd8bc542.jpg",
+          "sha1_12": "7ee9bd8bc542",
+          "bytes": 23268
+        },
+        {
+          "index": 8,
+          "file": "p02_08_f00a92df5940.jpg",
+          "sha1_12": "f00a92df5940",
+          "bytes": 46886
+        },
+        {
+          "index": 9,
+          "file": "p02_09_97916f552d3c.jpg",
+          "sha1_12": "97916f552d3c",
+          "bytes": 21945
+        }
+      ],
+      "uris": [
+        "http://www.powerwerx.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://store.rlham.com/shop/catalog/",
+        "http://www.kidde.com/productcatalog/pages/residentialseriesfireextinguishers.aspx",
+        "http://www.fire-extinguisher101.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://miniradiosolutions.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.powerwerx.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.mfjenterprises.com/",
+        "http://www.k6xx.com/radio/ic706amp.html",
+        "http://www.k0bg.com/amplifiers.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.ldgelectronics.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.niftyaccessories.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/images/neat/rescuetape.jpg"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_09_97916f552d3c.jpg",
+          "sha1_12": "97916f552d3c",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p03_01_9f671fc30e88.png",
+          "sha1_12": "9f671fc30e88",
+          "bytes": 9643
+        },
+        {
+          "index": 2,
+          "file": "p03_02_aa844ab535df.jpg",
+          "sha1_12": "aa844ab535df",
+          "bytes": 14864
+        },
+        {
+          "index": 3,
+          "file": "p03_03_1187a6427e6a.jpg",
+          "sha1_12": "1187a6427e6a",
+          "bytes": 31376
+        },
+        {
+          "index": 4,
+          "file": "p03_04_f49764740814.jpg",
+          "sha1_12": "f49764740814",
+          "bytes": 8547
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/images/neat/rescuetape.jpg",
+        "http://www.k0bg.com/couplers.html",
+        "http://www.rescuetape.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://tvandnav2go.com/",
+        "http://www.voxxintl.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}

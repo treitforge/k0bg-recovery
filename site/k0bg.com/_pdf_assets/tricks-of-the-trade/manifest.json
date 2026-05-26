@@ -1,0 +1,228 @@
+{
+  "pdf": "Tricks of the Trade.pdf",
+  "slug": "tricks-of-the-trade",
+  "page_count": 4,
+  "total_images": 25,
+  "unique_images": 23,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_da49da606017.jpg",
+          "sha1_12": "da49da606017",
+          "bytes": 6832
+        },
+        {
+          "index": 1,
+          "file": "p01_01_ef35eef1c605.jpg",
+          "sha1_12": "ef35eef1c605",
+          "bytes": 2871
+        },
+        {
+          "index": 2,
+          "file": "p01_02_4f5d82e90e2a.jpg",
+          "sha1_12": "4f5d82e90e2a",
+          "bytes": 8236
+        },
+        {
+          "index": 3,
+          "file": "p01_03_abf48ae6878c.jpg",
+          "sha1_12": "abf48ae6878c",
+          "bytes": 9751
+        },
+        {
+          "index": 4,
+          "file": "p01_04_6c0cced6f6bf.jpg",
+          "sha1_12": "6c0cced6f6bf",
+          "bytes": 15426
+        }
+      ],
+      "uris": [
+        "http://k0bg.com/#washers",
+        "http://www.k0bg.com/wiring.html",
+        "http://www.tecratools.com/",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/caphats.html",
+        "http://www.k0bg.com/static.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.hamradio.com/",
+        "http://www.electricmotioncompany.com/product/bonding-braid-eyelets-2/",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/tricks.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_00_1a1157280666.jpg",
+          "sha1_12": "1a1157280666",
+          "bytes": 37646
+        },
+        {
+          "index": 1,
+          "file": "p02_01_3228191f1d54.jpg",
+          "sha1_12": "3228191f1d54",
+          "bytes": 1470
+        },
+        {
+          "index": 2,
+          "file": "p02_02_0924bf5700be.jpg",
+          "sha1_12": "0924bf5700be",
+          "bytes": 78082
+        },
+        {
+          "index": 3,
+          "file": "p02_03_fd20b23df52e.jpg",
+          "sha1_12": "fd20b23df52e",
+          "bytes": 1956
+        },
+        {
+          "index": 4,
+          "file": "p02_04_febe3a1f863b.jpg",
+          "sha1_12": "febe3a1f863b",
+          "bytes": 90903
+        },
+        {
+          "index": 5,
+          "file": "p02_05_751c5bfd4879.jpg",
+          "sha1_12": "751c5bfd4879",
+          "bytes": 25672
+        },
+        {
+          "index": 6,
+          "file": "p02_06_763c44b83626.jpg",
+          "sha1_12": "763c44b83626",
+          "bytes": 63332
+        },
+        {
+          "index": 7,
+          "file": "p02_07_047cc885932f.jpg",
+          "sha1_12": "047cc885932f",
+          "bytes": 18798
+        },
+        {
+          "index": 8,
+          "file": "p02_08_7c15f3dcebf3.jpg",
+          "sha1_12": "7c15f3dcebf3",
+          "bytes": 82763
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/coax.html",
+        "http://therfc.com/",
+        "http://www.rescuetape.com/",
+        "http://www.k0bg.com/coax.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.acehardware.com/home/index.jsp",
+        "http://www.fastenersuperstore.com/index2.cfm",
+        "http://www.aaronsgeneralstore.com/",
+        "http://www.tnb.com/pub/",
+        "http://www.graybar.com/",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.homedepot.com/"
+      ]
+    },
+    {
+      "page": 3,
+      "images": [
+        {
+          "index": 0,
+          "file": "p02_08_7c15f3dcebf3.jpg",
+          "sha1_12": "7c15f3dcebf3",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p03_01_06cb2d829ecf.jpg",
+          "sha1_12": "06cb2d829ecf",
+          "bytes": 21256
+        },
+        {
+          "index": 2,
+          "file": "p03_02_099a4b19055b.jpg",
+          "sha1_12": "099a4b19055b",
+          "bytes": 17173
+        },
+        {
+          "index": 3,
+          "file": "p03_03_1dd3d3f306be.jpg",
+          "sha1_12": "1dd3d3f306be",
+          "bytes": 19772
+        },
+        {
+          "index": 4,
+          "file": "p03_04_2f355d91aa09.jpg",
+          "sha1_12": "2f355d91aa09",
+          "bytes": 25601
+        },
+        {
+          "index": 5,
+          "file": "p03_05_44be64f7dfa0.jpg",
+          "sha1_12": "44be64f7dfa0",
+          "bytes": 134055
+        },
+        {
+          "index": 6,
+          "file": "p03_06_0383800656ce.jpg",
+          "sha1_12": "0383800656ce",
+          "bytes": 13207
+        },
+        {
+          "index": 7,
+          "file": "p03_07_b8782788c3c5.png",
+          "sha1_12": "b8782788c3c5",
+          "bytes": 47110
+        },
+        {
+          "index": 8,
+          "file": "p03_08_87406707ea8e.png",
+          "sha1_12": "87406707ea8e",
+          "bytes": 24918
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/options.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/cabling.html",
+        "http://www.tnb.com/pub/",
+        "http://therfc.com/",
+        "http://www.westmountainradio.com/",
+        "http://www.tecratools.com/",
+        "http://en.wikipedia.org/wiki/Everclear_(alcohol)",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.westmountainradio.com/"
+      ]
+    },
+    {
+      "page": 4,
+      "images": [
+        {
+          "index": 0,
+          "file": "p03_08_87406707ea8e.png",
+          "sha1_12": "87406707ea8e",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p04_01_e5b1d0f3cd15.jpg",
+          "sha1_12": "e5b1d0f3cd15",
+          "bytes": 5276
+        }
+      ],
+      "uris": [
+        "http://bluesea.com/productline/overview/127",
+        "http://www.westmarine.com/webapp/wcs/stores/servlet/TopCategories1_11151_10001_-1",
+        "javascript:javascript:history.go(-1)",
+        "http://www.rainx.com/",
+        "javascript:javascript:history.go(-1)"
+      ]
+    }
+  ]
+}

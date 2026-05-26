@@ -1,0 +1,81 @@
+{
+  "pdf": "Controlling Static.pdf",
+  "slug": "controlling-static",
+  "page_count": 2,
+  "total_images": 7,
+  "unique_images": 6,
+  "pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_00_dfb1cd37cc1f.jpg",
+          "sha1_12": "dfb1cd37cc1f",
+          "bytes": 24380
+        },
+        {
+          "index": 1,
+          "file": "p01_01_9892e44b08b5.jpg",
+          "sha1_12": "9892e44b08b5",
+          "bytes": 68264
+        },
+        {
+          "index": 2,
+          "file": "p01_02_aa97235c0e2c.jpg",
+          "sha1_12": "aa97235c0e2c",
+          "bytes": 564345
+        },
+        {
+          "index": 3,
+          "file": "p01_03_c547bea93a5a.jpg",
+          "sha1_12": "c547bea93a5a",
+          "bytes": 128131
+        },
+        {
+          "index": 4,
+          "file": "p01_04_1833fec7a3e9.jpg",
+          "sha1_12": "1833fec7a3e9",
+          "bytes": 14943
+        }
+      ],
+      "uris": [
+        "http://www.k0bg.com/audio.html",
+        "http://www.k0bg.com/signal.html#noise",
+        "http://www.k0bg.com/rfi.html",
+        "http://www.k0bg.com/bonding.html",
+        "http://www.k0bg.com/match.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/common.html",
+        "javascript:javascript:history.go(-1)",
+        "http://www.naugatuckmfg.com/",
+        "http://www.k0bg.com/caphats.html",
+        "javascript:javascript:history.go(-1)",
+        "http://k0bg.com/static.html"
+      ]
+    },
+    {
+      "page": 2,
+      "images": [
+        {
+          "index": 0,
+          "file": "p01_03_c547bea93a5a.jpg",
+          "sha1_12": "c547bea93a5a",
+          "duplicate": true
+        },
+        {
+          "index": 1,
+          "file": "p02_01_a3533c2d7538.jpg",
+          "sha1_12": "a3533c2d7538",
+          "bytes": 27437
+        }
+      ],
+      "uris": [
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "javascript:javascript:history.go(-1)",
+        "http://www.k0bg.com/"
+      ]
+    }
+  ]
+}
