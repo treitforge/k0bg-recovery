@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link href="twoColLiqLtHdr.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search &middot; K0BG.COM Recovery</title>
+<meta name="robots" content="noindex,follow">
+<style>
+body { font: 16px/1.5 Georgia, "Times New Roman", Times, serif; background: #FFF; color: #111; margin: 0; }
+main { max-width: 820px; margin: 0 auto; padding: 18px 24px 60px; }
+h1 { font-size: 24px; margin: 4px 0 12px; }
+.search-bar { display: flex; gap: 8px; margin-bottom: 14px; }
+.search-bar input[type="search"] { flex: 1; padding: 8px 10px; font-size: 16px; font-family: inherit; border: 1px solid #aaa; border-radius: 4px; }
+.search-bar button { padding: 8px 16px; font-size: 16px; font-family: inherit; cursor: pointer; border: 1px solid #888; background: #f4f4f4; border-radius: 4px; }
+.search-bar button:hover { background: #e8e8e8; }
+.meta { color: #555; font-size: 14px; margin: 0 0 14px; }
+ol.results { list-style: none; padding: 0; margin: 0; }
+ol.results > li { padding: 12px 0; border-bottom: 1px solid #e6e6e6; }
+ol.results > li:last-child { border-bottom: none; }
+.result-title { font-size: 18px; margin: 0 0 4px; }
+.result-title a { color: #1c4e8a; text-decoration: none; }
+.result-title a:hover { text-decoration: underline; }
+.result-url { color: #666; font-size: 12px; margin: 0 0 6px; word-break: break-all; }
+.result-snippet { color: #222; font-size: 14px; margin: 0; line-height: 1.45; }
+.result-snippet mark { background: #fff3a8; color: inherit; padding: 0 1px; }
+.empty { color: #555; padding: 18px 0; }
+.error { color: #a00; padding: 18px 0; }
+.back { display: inline-block; margin-top: 18px; color: #1c4e8a; }
+</style>
+</head>
+<body>
+<!-- KOBG_PROVENANCE_BANNER_START --><div class="kobg-recovery-notice" role="note"><strong>Recovered article.</strong> Best-effort full-fidelity reconstruction from internet archival sources. <a href="about-reconstruction.html">Methodology &amp; disclaimer</a> &middot; <a href="index.html">Recovered home page</a></div><!-- KOBG_PROVENANCE_BANNER_END -->
+<main>
+<h1>Search the recovered K0BG.COM</h1>
+<form class="search-bar" id="search-form" role="search" autocomplete="off">
+  <input type="search" name="q" id="q" placeholder="Search for callsigns, antennas, RFI, mobile install&hellip;" aria-label="Search query">
+  <button type="submit">Search</button>
+</form>
+<p class="meta" id="meta">Loading search index&hellip;</p>
+<ol class="results" id="results"></ol>
+<a class="back" href="index.html">&larr; Back to the recovered home page</a>
+</main>
+<script>
+(function () {
+  var INDEX_URL = "search-index.json";
+  var MAX_RESULTS = 25;
+  var SNIPPET_RADIUS = 90;
+
+  var $q = document.getElementById("q");
+  var $form = document.getElementById("search-form");
+  var $meta = document.getElementById("meta");
+  var $results = document.getElementById("results");
+
+  var docs = null;
+  var loadError = null;
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function tokenize(q) {
+    return (q || "")
+      .toLowerCase()
+      .split(/[^a-z0-9\u00c0-\u017f]+/)
+      .filter(function (t) { return t.length >= 2; });
+  }
+
+  function score(doc, terms) {
+    var titleLower = doc.title.toLowerCase();
+    var textLower = doc.textLower;
+    var s = 0;
+    var hits = 0;
+    for (var i = 0; i < terms.length; i++) {
+      var t = terms[i];
+      var titleCount = (titleLower.split(t).length - 1);
+      var bodyCount = (textLower.split(t).length - 1);
+      if (titleCount > 0) { s += 6 * titleCount; hits++; }
+      if (bodyCount > 0) { s += bodyCount; hits++; }
+    }
+    if (hits < terms.length) { return 0; }
+    return s;
+  }
+
+  function buildSnippet(text, terms) {
+    var lower = text.toLowerCase();
+    var firstIdx = -1;
+    var firstTerm = null;
+    for (var i = 0; i < terms.length; i++) {
+      var idx = lower.indexOf(terms[i]);
+      if (idx >= 0 && (firstIdx < 0 || idx < firstIdx)) {
+        firstIdx = idx;
+        firstTerm = terms[i];
+      }
+    }
+    if (firstIdx < 0) {
+      return escapeHtml(text.slice(0, 180)) + (text.length > 180 ? "&hellip;" : "");
+    }
+    var start = Math.max(0, firstIdx - SNIPPET_RADIUS);
+    var end = Math.min(text.length, firstIdx + firstTerm.length + SNIPPET_RADIUS);
+    var slice = text.slice(start, end);
+    var prefix = start > 0 ? "&hellip;" : "";
+    var suffix = end < text.length ? "&hellip;" : "";
+    var html = escapeHtml(slice);
+    for (var i = 0; i < terms.length; i++) {
+      var t = terms[i];
+      var pattern = new RegExp("(" + t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")", "ig");
+      html = html.replace(pattern, "<mark>$1</mark>");
+    }
+    return prefix + html + suffix;
+  }
+
+  function render(query) {
+    if (loadError) {
+      $meta.className = "error";
+      $meta.textContent = "Search unavailable: " + loadError;
+      $results.innerHTML = "";
+      return;
+    }
+    if (docs === null) {
+      $meta.textContent = "Loading search index\u2026";
+      return;
+    }
+    var terms = tokenize(query);
+    if (terms.length === 0) {
+      $meta.textContent = docs.length + " articles indexed. Type a query above to search.";
+      $results.innerHTML = "";
+      return;
+    }
+    var ranked = [];
+    for (var i = 0; i < docs.length; i++) {
+      var s = score(docs[i], terms);
+      if (s > 0) { ranked.push({ doc: docs[i], score: s }); }
+    }
+    ranked.sort(function (a, b) { return b.score - a.score; });
+    if (ranked.length === 0) {
+      $meta.textContent = "No matches for \u201c" + query + "\u201d.";
+      $results.innerHTML = "";
+      return;
+    }
+    $meta.textContent = ranked.length + " match" + (ranked.length === 1 ? "" : "es") + " for \u201c" + query + "\u201d (showing top " + Math.min(ranked.length, MAX_RESULTS) + ").";
+    var top = ranked.slice(0, MAX_RESULTS);
+    var html = "";
+    for (var j = 0; j < top.length; j++) {
+      var d = top[j].doc;
+      html += '<li>'
+        + '<p class="result-title"><a href="' + escapeHtml(d.slug) + '">' + escapeHtml(d.title || d.slug) + '</a></p>'
+        + '<p class="result-url">' + escapeHtml(d.slug) + '</p>'
+        + '<p class="result-snippet">' + buildSnippet(d.text, terms) + '</p>'
+        + '</li>';
+    }
+    $results.innerHTML = html;
+  }
+
+  function getInitialQuery() {
+    var m = /[?&]q=([^&]+)/.exec(window.location.search);
+    if (m) {
+      try { return decodeURIComponent(m[1].replace(/\+/g, " ")); }
+      catch (e) { return m[1]; }
+    }
+    return "";
+  }
+
+  function debounce(fn, delay) {
+    var t = null;
+    return function () {
+      var args = arguments;
+      clearTimeout(t);
+      t = setTimeout(function () { fn.apply(null, args); }, delay);
+    };
+  }
+
+  $form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    var q = $q.value.trim();
+    var url = window.location.pathname + (q ? "?q=" + encodeURIComponent(q) : "");
+    window.history.replaceState({}, "", url);
+    render(q);
+  });
+
+  var onInput = debounce(function () { render($q.value.trim()); }, 120);
+  $q.addEventListener("input", onInput);
+
+  var initialQ = getInitialQuery();
+  if (initialQ) { $q.value = initialQ; }
+
+  fetch(INDEX_URL, { credentials: "omit" })
+    .then(function (r) {
+      if (!r.ok) { throw new Error("HTTP " + r.status); }
+      return r.json();
+    })
+    .then(function (data) {
+      docs = data;
+      for (var i = 0; i < docs.length; i++) {
+        docs[i].textLower = docs[i].text.toLowerCase();
+      }
+      render($q.value.trim());
+      $q.focus();
+    })
+    .catch(function (err) {
+      loadError = err.message || String(err);
+      render($q.value.trim());
+    });
+})();
+</script>
+</body>
+</html>
