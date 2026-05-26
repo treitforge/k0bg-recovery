@@ -1,11 +1,11 @@
 # K0BG.COM Recovery
 
-A community reconstruction of the late Alan Applegate's **K0BG.COM** mobile HF amateur radio reference site, rebuilt from public archival sources after the original site went offline in 2022.
+A community reconstruction of Alan Applegate's (K0BG) **K0BG.COM** mobile HF amateur radio reference site, rebuilt from public archival sources after the original site went offline in 2022.
 
 **Live mirror:** <https://rtreit.com/k0bg-com/>
 **About / methodology / disclaimer:** <https://rtreit.com/k0bg-com/about-reconstruction.html>
 
-> This project has **no affiliation** with Alan Applegate, his family, or his estate. It is preserved here by Randy Treit (KC7AVA) as a courtesy to fellow hams. If a rights holder would like the recovered content taken down or hosted elsewhere, please [open an issue](https://github.com/treitforge/k0bg-recovery/issues/new) or email `randyt@outlook.com` and it will be removed immediately.
+> This project has **no affiliation** with Alan Applegate or his family. It is preserved here by Randy Treit (KC7AVA) as a courtesy to fellow hams. If Alan or anyone authorized to represent the original work would like the recovered content taken down or hosted elsewhere, please [open an issue](https://github.com/treitforge/k0bg-recovery/issues/new) or email `randyt@outlook.com` and it will be removed immediately.
 
 ## What's in here
 
@@ -78,7 +78,7 @@ python scripts/merge_images_v2.py
 
 ## Credit
 
-All technical content under `site/k0bg.com/` was authored by Alan Applegate, K0BG (SK).
+All technical content under `site/k0bg.com/` was authored by Alan Applegate, K0BG.
 The recovery pipeline and this README are by Randy Treit, KC7AVA.
 
 73 &middot; *de KC7AVA*

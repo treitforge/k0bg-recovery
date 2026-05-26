@@ -25,9 +25,10 @@ SOFTWARE.
 NOTE ON THE RECOVERED CONTENT UNDER `site/`:
 
 The HTML, images, and PDFs under `site/k0bg.com/` are recovered copies of
-the late Alan Applegate's K0BG.COM website. The MIT license above applies
+Alan Applegate's (K0BG) K0BG.COM website. The MIT license above applies
 to the recovery scripts and methodology in this repository, NOT to Alan's
 original authored content. That content remains the intellectual property of
-Alan Applegate and his estate. This repository preserves it as a community
-courtesy. If you are a rights holder and would like the recovered content
-removed, please open an issue or contact the maintainer.
+Alan Applegate (or his successor in interest, if any). This repository
+preserves it as a community courtesy. If you are a rights holder and would
+like the recovered content removed, please open an issue or contact the
+maintainer.
